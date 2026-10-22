@@ -1,0 +1,63 @@
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 8 Tf 9.6 TL ET
+.4 .443137 .478431 rg
+BT 1 0 0 1 45 28 Tm (Paradigm Security Services | October 21, 2026) Tj T* ET
+BT 1 0 0 1 562.552 28 Tm (4) Tj T* ET
+q
+1 0 0 1 54 706 cm
+q
+BT 1 0 0 1 0 22 Tm 16 TL /F1 10 Tf 0 0 0 rg (managers, it affects relationships with tenants and the broader reputation of the center. Security works alongside) Tj T* (lighting, maintenance, parking operations, and customer service rather than replacing any of them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 675 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (The employees who leave after closing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 524 cm
+q
+BT 1 0 0 1 0 134 Tm 16 TL /F1 10 Tf 0 0 0 rg (Holiday shoppers may spend an hour on the property. Employees spend entire shifts there, sometimes arriving) Tj T* (before the stores open or leaving when most customers have gone. Seasonal workers may not know the property) Tj T* (well, and late departures can feel different from a busy afternoon. Their experience deserves as much) Tj T* (consideration as the shopper's.) Tj  T*  T* (A defined security presence can support communication when an employee reports a concern, when a disruption) Tj T* (affects a shared space, or when management needs assistance coordinating an incident. It should not be) Tj T* (marketed as a guarantee that crime will be prevented. The value lies in a clear, professional resource operating) Tj T* (within an established role.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 493 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (A shared property needs shared understanding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 358 cm
+q
+BT 1 0 0 1 0 118 Tm 16 TL /F1 10 Tf 0 0 0 rg (Retail centers frequently involve multiple tenants, delivery services, visitors, and property management teams.) Tj T* (Each has different responsibilities. Legal duties depend on the circumstances, and it is inaccurate to suggest that) Tj T* (every incident automatically makes a property owner liable. Professional security is one possible part of) Tj T* (reasonable property operations, not a substitute for legal advice or emergency services.) Tj  T*  T* (When the decorations come down and the crowds disappear, customers will still remember how the property felt.) Tj T* (A parking area that receives thoughtful attention supports the entire retail experience. During the holidays, that) Tj T* (attention becomes especially visible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 327 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Sources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 307 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F1 8.5 Tf 0 0 0 rg (Council on Criminal Justice, Shoplifting Trends: ) Tj .078431 .356863 .521569 rg (https://counciloncj.org/between-the-aisles-a-closer-look-at-shoplifting-trends/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 274 cm
+q
+BT 1 0 0 1 0 17.5 Tm 13 TL /F1 8.5 Tf 0 0 0 rg (Public Policy Institute of California, Retail Crime Trends:) Tj T* .078431 .356863 .521569 rg (https://www.ppic.org/blog/overall-crime-in-california-fell-last-year-but-shoplifting-continued-to-rise/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 254 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F1 8.5 Tf 0 0 0 rg (California BSIS, Licenses: ) Tj .078431 .356863 .521569 rg (https://www.bsis.ca.gov/licenses) Tj T* ET
+Q
+Q
+ 

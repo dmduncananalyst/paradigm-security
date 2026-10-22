@@ -1,0 +1,32 @@
+﻿[
+    {
+        "page":  "home",
+        "referenceFont":  "ivypresto-headline",
+        "localFont":  "ivypresto-headline",
+        "referenceSize":  "67.84px",
+        "localSize":  "67.84px",
+        "referenceColor":  "rgb(17, 76, 149)",
+        "localColor":  "rgb(17, 76, 149)",
+        "typographyMatches":  true
+    },
+    {
+        "page":  "about",
+        "referenceFont":  "ivypresto-headline",
+        "localFont":  "ivypresto-headline",
+        "referenceSize":  "67.84px",
+        "localSize":  "67.84px",
+        "referenceColor":  "rgb(255, 255, 255)",
+        "localColor":  "rgb(255, 255, 255)",
+        "typographyMatches":  true
+    },
+    {
+        "page":  "contact",
+        "referenceFont":  "ivypresto-headline",
+        "localFont":  "ivypresto-headline",
+        "referenceSize":  "47.104px",
+        "localSize":  "47.104px",
+        "referenceColor":  "rgb(255, 255, 255)",
+        "localColor":  "rgb(255, 255, 255)",
+        "typographyMatches":  true
+    }
+]

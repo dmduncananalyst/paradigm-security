@@ -1,0 +1,312 @@
+﻿[
+    {
+        "page":  "contact.html",
+        "title":  "Contact",
+        "filename":  "page-contact.png"
+    },
+    {
+        "page":  "employment.html",
+        "title":  "Careers",
+        "filename":  "page-employment.png"
+    },
+    {
+        "page":  "pictures-to-use.html",
+        "title":  "Places We Protect",
+        "filename":  "page-pictures-to-use.png"
+    },
+    {
+        "page":  "articles/armed-security-police-response-times.html",
+        "title":  "Armed Security vs. Police: Response Times Explained",
+        "filename":  "page-articles-armed-security-police-response-times.png"
+    },
+    {
+        "page":  "articles/california-cannabis-security-and-armed-guard-assumptions.html",
+        "title":  "California Cannabis Security Requirements and Armed Guard Assumptions",
+        "filename":  "page-articles-california-cannabis-security-and-armed-guard-assumptions.png"
+    },
+    {
+        "page":  "articles/citizen-arrest-california-security.html",
+        "title":  "Security Guard Arrest Authority in California",
+        "filename":  "page-articles-citizen-arrest-california-security.png"
+    },
+    {
+        "page":  "articles/construction-site-theft-project-delays.html",
+        "title":  "Construction Site Theft Can Delay an Entire Project",
+        "filename":  "page-articles-construction-site-theft-project-delays.png"
+    },
+    {
+        "page":  "articles/employee-parking-safety-employer-responsibility.html",
+        "title":  "Employee Parking Safety and Employer Responsibility After Dark",
+        "filename":  "page-articles-employee-parking-safety-employer-responsibility.png"
+    },
+    {
+        "page":  "articles/event-venue-and-organizer-responsibility.html",
+        "title":  "Event Safety Responsibility Between Venues and Organizers",
+        "filename":  "page-articles-event-venue-and-organizer-responsibility.png"
+    },
+    {
+        "page":  "articles/executive-protection-bodyguard-difference.html",
+        "title":  "Executive Protection and Bodyguard Services: Scope and Expectations",
+        "filename":  "page-articles-executive-protection-bodyguard-difference.png"
+    },
+    {
+        "page":  "articles/film-production-access-and-public-boundaries.html",
+        "title":  "Film Production Access and the Boundary Between Private and Public Space",
+        "filename":  "page-articles-film-production-access-and-public-boundaries.png"
+    },
+    {
+        "page":  "articles/former-employee-threats-workplace-security.html",
+        "title":  "Former Employee Threats and Workplace Security Responsibilities",
+        "filename":  "page-articles-former-employee-threats-workplace-security.png"
+    },
+    {
+        "page":  "articles/former-police-officers-private-security.html",
+        "title":  "Former Police Officers in Private Security: Experience and Current Authority",
+        "filename":  "page-articles-former-police-officers-private-security.png"
+    },
+    {
+        "page":  "articles/homeowner-responsibility-visitors-trespassers.html",
+        "title":  "Homeowner Responsibility for Visitors and Trespassers in California",
+        "filename":  "page-articles-homeowner-responsibility-visitors-trespassers.png"
+    },
+    {
+        "page":  "articles/hospital-security-authority-and-clinical-decisions.html",
+        "title":  "Hospital Security Authority and the Limits of Clinical Decision Making",
+        "filename":  "page-articles-hospital-security-authority-and-clinical-decisions.png"
+    },
+    {
+        "page":  "articles/landlord-responsibility-repeated-apartment-breakins.html",
+        "title":  "Landlord Responsibility After Repeated Apartment Break Ins",
+        "filename":  "page-articles-landlord-responsibility-repeated-apartment-breakins.png"
+    },
+    {
+        "page":  "articles/residential-security-alarm-monitoring-differences.html",
+        "title":  "Private Residential Security and Alarm Monitoring Explained",
+        "filename":  "page-articles-residential-security-alarm-monitoring-differences.png"
+    },
+    {
+        "page":  "articles/school-security-guards-resource-officers-differences.html",
+        "title":  "School Security Guards and School Resource Officers Have Different Roles",
+        "filename":  "page-articles-school-security-guards-resource-officers-differences.png"
+    },
+    {
+        "page":  "articles/school-visitor-disputes-campus-access-rights.html",
+        "title":  "School Visitor Disputes and Campus Access Rights",
+        "filename":  "page-articles-school-visitor-disputes-campus-access-rights.png"
+    },
+    {
+        "page":  "articles/security-searches-consent-private-property.html",
+        "title":  "Security Searches, Consent, and Private Property Rights in California",
+        "filename":  "page-articles-security-searches-consent-private-property.png"
+    },
+    {
+        "page":  "articles/shopping-center-parking-lot-assault-responsibility.html",
+        "title":  "Shopping Center Responsibility for Parking Lot Assaults",
+        "filename":  "page-articles-shopping-center-parking-lot-assault-responsibility.png"
+    },
+    {
+        "page":  "articles/stalking-private-protection-law-enforcement.html",
+        "title":  "Stalking, Private Protection, and Law Enforcement: Distinct Responsibilities",
+        "filename":  "page-articles-stalking-private-protection-law-enforcement.png"
+    },
+    {
+        "page":  "articles/trespass-property-removal-boundaries.html",
+        "title":  "Trespassing and Removal from Private Property: Legal Boundaries",
+        "filename":  "page-articles-trespass-property-removal-boundaries.png"
+    },
+    {
+        "page":  "articles/topics/apartments-residential.html",
+        "title":  "Apartment \u0026 Residential Community Security",
+        "filename":  "page-articles-topics-apartments-residential.png"
+    },
+    {
+        "page":  "articles/topics/banking-transport-cannabis.html",
+        "title":  "Bank, Cash Transport \u0026 Cannabis Security",
+        "filename":  "page-articles-topics-banking-transport-cannabis.png"
+    },
+    {
+        "page":  "articles/topics/construction-warehouse.html",
+        "title":  "Construction Site \u0026 Warehouse Security",
+        "filename":  "page-articles-topics-construction-warehouse.png"
+    },
+    {
+        "page":  "articles/topics/events-production.html",
+        "title":  "Event \u0026 Film Production Security",
+        "filename":  "page-articles-topics-events-production.png"
+    },
+    {
+        "page":  "articles/topics/homes-estates.html",
+        "title":  "Private Home \u0026 Estate Security",
+        "filename":  "page-articles-topics-homes-estates.png"
+    },
+    {
+        "page":  "articles/topics/hospitals-medical.html",
+        "title":  "Hospital \u0026 Medical Facility Security",
+        "filename":  "page-articles-topics-hospitals-medical.png"
+    },
+    {
+        "page":  "articles/topics/personal-protection.html",
+        "title":  "Personal Protection, Stalking \u0026 Threats",
+        "filename":  "page-articles-topics-personal-protection.png"
+    },
+    {
+        "page":  "articles/topics/police-private-security.html",
+        "title":  "Police vs. Private Security",
+        "filename":  "page-articles-topics-police-private-security.png"
+    },
+    {
+        "page":  "articles/topics/retail-shopping-center.html",
+        "title":  "Retail \u0026 Shopping Center Security",
+        "filename":  "page-articles-topics-retail-shopping-center.png"
+    },
+    {
+        "page":  "articles/topics/schools-campus.html",
+        "title":  "School \u0026 Campus Security",
+        "filename":  "page-articles-topics-schools-campus.png"
+    },
+    {
+        "page":  "articles/topics/security-authority-rights.html",
+        "title":  "Security Guard Authority \u0026 Your Rights",
+        "filename":  "page-articles-topics-security-authority-rights.png"
+    },
+    {
+        "page":  "articles/topics/workplace-office.html",
+        "title":  "Workplace \u0026 Office Security",
+        "filename":  "page-articles-topics-workplace-office.png"
+    },
+    {
+        "page":  "locations/baldwin-hills.html",
+        "title":  "Security Guard Services in Baldwin Hills, Los Angeles",
+        "filename":  "page-locations-baldwin-hills.png"
+    },
+    {
+        "page":  "locations/beverly-hills.html",
+        "title":  "Security Guard Services in Beverly Hills",
+        "filename":  "page-locations-beverly-hills.png"
+    },
+    {
+        "page":  "locations/big-bear-lake.html",
+        "title":  "Security Guard Services in Big Bear Lake",
+        "filename":  "page-locations-big-bear-lake.png"
+    },
+    {
+        "page":  "locations/calabasas.html",
+        "title":  "Security Guard Services in Calabasas",
+        "filename":  "page-locations-calabasas.png"
+    },
+    {
+        "page":  "locations/chino-hills.html",
+        "title":  "Security Guard Services in Chino Hills",
+        "filename":  "page-locations-chino-hills.png"
+    },
+    {
+        "page":  "locations/culver-city.html",
+        "title":  "Security Guard Services in Culver City",
+        "filename":  "page-locations-culver-city.png"
+    },
+    {
+        "page":  "locations/lake-arrowhead.html",
+        "title":  "Security Guard Services in Lake Arrowhead",
+        "filename":  "page-locations-lake-arrowhead.png"
+    },
+    {
+        "page":  "locations/malibu.html",
+        "title":  "Security Guard Services in Malibu",
+        "filename":  "page-locations-malibu.png"
+    },
+    {
+        "page":  "locations/rancho-cucamonga.html",
+        "title":  "Security Guard Services in Rancho Cucamonga",
+        "filename":  "page-locations-rancho-cucamonga.png"
+    },
+    {
+        "page":  "locations/san-marino.html",
+        "title":  "Security Guard Services in San Marino",
+        "filename":  "page-locations-san-marino.png"
+    },
+    {
+        "page":  "locations/upland.html",
+        "title":  "Security Guard Services in Upland",
+        "filename":  "page-locations-upland.png"
+    },
+    {
+        "page":  "protection/apartments.html",
+        "title":  "Apartments and Residential Communities",
+        "filename":  "page-protection-apartments.png"
+    },
+    {
+        "page":  "protection/cannabis-dispensaries.html",
+        "title":  "Cannabis Dispensaries",
+        "filename":  "page-protection-cannabis-dispensaries.png"
+    },
+    {
+        "page":  "protection/construction-sites.html",
+        "title":  "Construction Sites",
+        "filename":  "page-protection-construction-sites.png"
+    },
+    {
+        "page":  "protection/events.html",
+        "title":  "Events and Private Functions",
+        "filename":  "page-protection-events.png"
+    },
+    {
+        "page":  "protection/film-production-sites.html",
+        "title":  "Film and Production Sites",
+        "filename":  "page-protection-film-production-sites.png"
+    },
+    {
+        "page":  "protection/hospitals-medical-facilities.html",
+        "title":  "Hospitals and Medical Facilities",
+        "filename":  "page-protection-hospitals-medical-facilities.png"
+    },
+    {
+        "page":  "protection/private-homes-estates.html",
+        "title":  "Private Homes and Estates",
+        "filename":  "page-protection-private-homes-estates.png"
+    },
+    {
+        "page":  "protection/schools.html",
+        "title":  "Schools and Campuses",
+        "filename":  "page-protection-schools.png"
+    },
+    {
+        "page":  "services/cannabis-and-cash-transport.html",
+        "title":  "Cannabis and Cash Transport Security",
+        "filename":  "page-services-cannabis-and-cash-transport.png"
+    },
+    {
+        "page":  "services/unarmed-security.html",
+        "title":  "Unarmed Security",
+        "filename":  "page-services-unarmed-security.png"
+    },
+    {
+        "page":  "services/asset-protection/cannabis-dispensaries.html",
+        "title":  "Dispensary Asset Protection",
+        "filename":  "page-services-asset-protection-cannabis-dispensaries.png"
+    },
+    {
+        "page":  "services/asset-protection/loss-prevention.html",
+        "title":  "Loss Prevention",
+        "filename":  "page-services-asset-protection-loss-prevention-v2.png"
+    },
+    {
+        "page":  "protection/banks.html",
+        "title":  "Banks",
+        "filename":  "page-protection-banks-v2.png"
+    },
+    {
+        "page":  "articles/bank-security-guards-and-police-authority.html",
+        "title":  "Bank Security Guards and Police Authority",
+        "filename":  "page-articles-bank-security-guards-and-police-authority-v2.png"
+    },
+    {
+        "page":  "articles/visitor-aggression-and-healthcare-worker-safety.html",
+        "title":  "Healthcare Worker Safety",
+        "filename":  "page-articles-visitor-aggression-and-healthcare-worker-safety-v2.png"
+    },
+    {
+        "page":  "articles/resident-threats-apartment-common-area-responsibility.html",
+        "title":  "Residential Common Area Safety",
+        "filename":  "page-articles-resident-threats-apartment-common-area-responsibility.png"
+    }
+]

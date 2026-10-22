@@ -1,0 +1,30 @@
+﻿CURRENT LOCAL REVIEW - 2026-10-21
+
+Active build: redesign/build-new.ps1, with redesign/curate-photography.ps1.
+Active stylesheet: redesign/paradigm.css.
+
+PHOTO RULES
+Only photos on the visually reviewed approved-photography.json list may appear. Uniformed guards must have visible SECURITY lettering; guards in suits are allowed. The original About photo is the explicit exception and retains its existing position and SHA256 7308D3BC5CB81EAA702133AC4197F56D17931A170B1BAE4839CC7AC80CFE5942.
+Armed Security accepts only reviewed armed photographs. Unarmed Security uses photographs without visible firearms. Patrol cards and page show bicycle patrol officers. Dog photographs with unmarked handlers were excluded; no dog photographs remain outside canine narcotic detection.
+Forced use of every source photo has been removed. There are no filler galleries or appended displaced-photo stacks. Supporting photos are attached to existing sections with copy, at most two additional section photos per service/protection page.
+Cards and destinations share the same approved photo. If no eligible, relevant photograph remains, the photo is omitted.
+Do not reactivate distribute-photography.ps1 or sync-card-photography.ps1: those superseded scripts forced the complete library into the website.
+
+PRESERVED
+Homepage heading stays over the video. Other page titles are centered above hero media. About original photo, navigation, footer, original brand blue #313087, and telephone 818-746-5432 remain. HubSpot chat connected. No test inquiry submitted. No commit, push, deployment, or publication.
+
+2026-10-21 PHOTO SIZING AND GENERATED REPLACEMENTS
+All card photographs now use actual 3:2 source images and non-shrinking 3:2 rendered dimensions. Six viewport checks include source aspect ratio, rendered aspect ratio, same-row photo dimensions, and missing card images; all 86 pages passed.
+Generated and visually reviewed 67 final replacement photographs, featuring Black, Mexican American, Asian American, and Middle Eastern security personnel with readable SECURITY on their uniform shirts. Includes clearly holstered handgun for Armed Security, unarmed scenes, two K9 detection handlers, and a bicycle/SUV patrol scene. Replaced incorrect Asset Protection photo and removed its earlier approval.
+Photo policy reserves bicycles for vehicle-bike patrol and dogs for K9 narcotic detection, including linked cards for those services. All other contexts reject those images. No filler galleries or forced use of the complete original library.
+Independent final audit: 184 photo placements, 118 card photos, zero unapproved/aspect/bicycle/dog/armed policy violations. About photo hash and position preserved. Card-to-destination matching retained. Full hero videos, homepage overlay heading, approved menu and footer preserved.
+Photo generation job specification: redesign/photo-generation-jobs.json. Reviewed asset manifest: redesign/approved-photography.json. Import/conversion: redesign/import-generated-photography.ps1. Current page allocator: redesign/curate-photography.ps1.
+No external inquiry submitted. Nothing committed, pushed, deployed, or published.
+2026-10-21 LATEST UPDATE: THREE BLOGS AND PHOTO VARIETY
+See redesign/OCTOBER-21-REVIEW.txt for the completed implementation and test report. This supersedes earlier notes saying the homepage retains a video: the homepage now uses the authorized badge-free generated still with its centered heading. The other page videos remain. Three approved client blog PNGs are explicit photo-policy exceptions and remain byte-for-byte unchanged. 89 pages passed all six viewport checks. Careers and About photos are preserved. No release actions were taken.
+2026-10-21 LATEST FEEDBACK CORRECTIONS
+See redesign/FEEDBACK-REVIEW.txt. Question-only chat replaces the visible embedded HubSpot form and maps the full conversation to message. Read Article stays white and centered without an arrow. About headings are centered. Source links and article buttons have improved spacing. Explicit photo assignments correct scene mismatches, framing, and repeated images. Blog, Safety, county/city, Careers, and About photos remain locked. 89 pages passed six viewport checks; submission tests used intercepted requests, with no real lead sent. Nothing released.
+2026-10-21 TABLET AND PHONE NAVIGATION
+Tablet galleries now show two photographs per row, including the blog archive. Navigation remains visible on iPad and phone; redundant Menu controls are removed. Services and Protection labels toggle their complete dropdowns on touch and compact layouts. Desktop hover remains supported. Dropdown visibility uses one explicit open state, avoiding competing CSS hover/focus and tap behavior. Desktop-to-submenu pointer navigation passed. All 89 pages passed six viewport checks. Nine touch widths from 320 to 1366 passed visible navigation, no menu buttons, dropdown stability, gallery columns, and overflow checks. Approved photo changes: zero. All work local; nothing committed, pushed, or published.
+2026-10-21 MOBILE VISIBILITY AND MENU CLEANUP
+About headings use Our Beginnings, Our Team, and Professional Standards. Menu arrows are removed on every screen size. Mouse hover opens Services/Protection; touch taps toggle them. On phone widths below 600px, header license and credentials strip are hidden, footer contents are centered, and hero/blog captions sit below their photos. Existing approved photos are untouched. Dedicated geometry checks at 320, 390, and 500 confirm no photo/text overlap, no license display, centered footer, no arrows, and no overflow. Tablet keeps two-column galleries; desktop photo treatment is preserved. All work local, no release actions.

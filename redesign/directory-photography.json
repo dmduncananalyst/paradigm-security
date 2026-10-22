@@ -1,0 +1,22 @@
+﻿{
+    "services/armed-security.html":  "security_officer_reviews_tablet_in_lobby.jpg",
+    "services/unarmed-security.html":  "security_officer_assists_lobby_visitor.jpg",
+    "services/asset-protection.html":  "stockroom_security_and_sealed_cartons.jpg",
+    "services/cannabis-and-cash-transport.html":  "secure_case_escort_at_loading_door.jpg",
+    "services/asset-protection/cannabis-dispensaries.html":  "dispensary_security_officer_at_reception.jpg",
+    "services/asset-protection/k9-narcotic-detection.html":  "k9_handler_and_shepherd_at_warehouse.jpg",
+    "services/asset-protection/loss-prevention.html":  "private_guard_monitoring_retail_floor.jpg",
+    "services/asset-protection/vehicle-bike-patrol.html":  "business_park_vehicle_patrol.jpg",
+    "protection/apartments.html":  "evening_corridor_security_patrol.jpg",
+    "protection/banks.html":  "guiding_customers_at_the_bank.jpg",
+    "protection/cannabis-dispensaries.html":  "dispensary_security_planning_meeting.jpg",
+    "protection/construction-sites.html":  "security_officer_reviews_tablet_with_superintenden.jpg",
+    "protection/events.html":  "private_event_guest_admission_check.jpg",
+    "protection/film-production-sites.html":  "studio_lot_security_during_camera_setup.jpg",
+    "protection/hospitals-medical-facilities.html":  "medical_campus_security_at_dusk.jpg",
+    "protection/individuals-executives.html":  "plainclothes_protection_beside_a_business_client.jpg",
+    "protection/malls-shopping-centers.html":  "security_officer_patrols_open_air_shopping_center.jpg",
+    "protection/office-buildings.html":  "security_officer_reviews_an_incident_report.jpg",
+    "protection/private-homes-estates.html":  "discreet_estate_security_at_twilight.jpg",
+    "protection/schools.html":  "security_escort_to_campus_reception.jpg"
+}

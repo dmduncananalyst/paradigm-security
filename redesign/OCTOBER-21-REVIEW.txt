@@ -1,0 +1,44 @@
+LOCAL REVIEW, OCTOBER 21, 2026
+
+Archive: blog.html
+The archive uses complete photographs with headline overlays. Articles use a centered title, full featured photograph, and a single reading column. Shared branding, navigation, footer, and integrations are preserved.
+
+ARTICLES ADDED
+The Security Risks Behind a Company Holiday Party
+Page: blog-company-holiday-party-security-risks.html
+Photo: assets/blog/Holiday Event Security in a Festive Lobby.png
+Internal service: protection/events.html
+
+Holiday Shopping Crowds Bring New Security Concerns to Parking Lots
+Page: blog-holiday-shopping-parking-lot-security.html
+Photo: assets/blog/Holiday Mall Watch at Night.png
+Internal service: protection/malls-shopping-centers.html
+
+The Hidden Cost of Construction Site Theft During Holiday Shutdowns
+Page: blog-construction-site-theft-holiday-shutdowns.html
+Photo: assets/blog/Golden-Hour Construction Site Security.png
+Internal service: protection/construction-sites.html
+
+All three articles use the complete PDF prose, original headings, exact supplied meta descriptions, and October 21, 2026 publication date. The PDF supplies no separate SEO title field; its exact article titles are used as the SEO titles. All eight supplied source URLs are retained exactly and clickable. Each article has one H1, its original H2 headings, a unique canonical URL, BlogPosting structured data, descriptive alt text, an internal service link, a matching archive preview, and one sitemap entry. No FAQ or generic next-steps section was added.
+
+APPROVED PHOTOS
+All three supplied PNG files were copied byte-for-byte with original filenames. SHA256 comparisons against the supplied originals passed. Their full proportions are preserved in archive and featured-image displays.
+
+HOMEPAGE AND PHOTO AUDIT
+Reliable moving-badge removal was unavailable. The authorized fallback is implemented: the homepage video is replaced by assets/approved-generated/home-hero-badge-free-v3.jpg, with Paradigm Security Services centered over it.
+28 new photographs were generated with the built-in image generation tool and visually inspected. Final project assets are in assets/approved-generated/*-v3.jpg. Full generation prompts and source records are in redesign/photo-variety-results.json and redesign/topic-variety-results.json.
+The 12 city cards and destination photos match and now show varied actions and settings. Asset Protection and Cash Transport use distinct scenes. Safety category photos also vary. Repeated consecutive topic-card photographs were replaced with relevant illustrations. Careers retains assets/approved-generated/page-employment.jpg. The About photograph and its original SHA256 are unchanged.
+
+LOCAL TEST RESULTS
+89 pages passed static link, asset, title, description, canonical, structured-data, and H1 checks.
+All 89 pages passed browser layout/image checks at 1440, 1024, 920, 768, 730, and 390 pixels.
+Actual clicks on all three blog previews opened the correct article and matching featured image at all six widths.
+Article prose was compared independently against all six PDF pages, with no omitted or changed prose. All source links, SEO descriptions, publication dates, internal links, photo hashes, and sitemap entries passed.
+195 main-content photo placements passed reviewed-photo checks. No adjacent identical photos remain. City card-to-destination matching passed for all 12 cities.
+Navigation dropdown hover, submenu clicks, mobile navigation, Careers application destination, homepage sliding strip, existing guided chats, and the three new article chats passed local checks. No inquiry was submitted.
+Desktop and mobile screenshots were visually inspected. Images retain full proportions without stretching or cropping.
+
+REPRODUCIBILITY
+Run redesign/build.ps1 to rebuild the site, including photo corrections and the three blogs. Blog source extraction: redesign/october21-pdf-extracted.json. Blog generator: redesign/build-october21-blogs.ps1. Content verification: redesign/verify-october21.ps1. Results: redesign/october21-verification.json, redesign/october21-photo-audit.json, redesign/audit-results.json, and redesign/browser-*.json.
+
+Nothing committed, pushed, published, deployed, or changed on the live website. All work remains local for personal review.

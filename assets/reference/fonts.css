@@ -1,0 +1,8 @@
+@font-face { font-family: ivypresto-headline; src:url("font-1.woff2") format("woff2"); font-weight: 400; font-style: normal; font-stretch: normal; font-display: auto; }
+@font-face { font-family: ivypresto-headline; src:url("font-2.woff2") format("woff2"); font-weight: 700; font-style: normal; font-stretch: normal; font-display: auto; }
+@font-face { font-family: ivypresto-headline; src:url("font-3.woff2") format("woff2"); font-weight: 400; font-style: italic; font-stretch: normal; font-display: auto; }
+@font-face { font-family: ivypresto-headline; src:url("font-4.woff2") format("woff2"); font-weight: 700; font-style: italic; font-stretch: normal; font-display: auto; }
+@font-face { font-family: ivystyle-sans; src:url("font-5.woff2") format("woff2"); font-weight: 400; font-style: normal; font-stretch: normal; font-display: auto; }
+@font-face { font-family: ivystyle-sans; src:url("font-6.woff2") format("woff2"); font-weight: 700; font-style: normal; font-stretch: normal; font-display: auto; }
+@font-face { font-family: ivystyle-sans; src:url("font-7.woff2") format("woff2"); font-weight: 400; font-style: italic; font-stretch: normal; font-display: auto; }
+@font-face { font-family: ivystyle-sans; src:url("font-8.woff2") format("woff2"); font-weight: 700; font-style: italic; font-stretch: normal; font-display: auto; }

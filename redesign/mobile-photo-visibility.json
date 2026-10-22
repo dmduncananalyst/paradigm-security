@@ -1,0 +1,237 @@
+[
+    {
+        "page":  "index.html",
+        "width":  320,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  false,
+        "credentialsVisible":  false,
+        "footerCentered":  true,
+        "heroTextCoversPhoto":  false,
+        "blogTextCoversPhotos":  false,
+        "aboutHeadings":  [
+
+                          ],
+        "heroColumns":  1
+    },
+    {
+        "page":  "blog.html",
+        "width":  320,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  false,
+        "credentialsVisible":  false,
+        "footerCentered":  true,
+        "heroTextCoversPhoto":  null,
+        "blogTextCoversPhotos":  false,
+        "aboutHeadings":  [
+
+                          ],
+        "heroColumns":  null
+    },
+    {
+        "page":  "about.html",
+        "width":  320,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  false,
+        "credentialsVisible":  false,
+        "footerCentered":  true,
+        "heroTextCoversPhoto":  null,
+        "blogTextCoversPhotos":  false,
+        "aboutHeadings":  [
+                              "Our Beginnings",
+                              "Our Team",
+                              "Professional Standards"
+                          ],
+        "heroColumns":  null
+    },
+    {
+        "page":  "index.html",
+        "width":  390,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  false,
+        "credentialsVisible":  false,
+        "footerCentered":  true,
+        "heroTextCoversPhoto":  false,
+        "blogTextCoversPhotos":  false,
+        "aboutHeadings":  [
+
+                          ],
+        "heroColumns":  1
+    },
+    {
+        "page":  "blog.html",
+        "width":  390,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  false,
+        "credentialsVisible":  false,
+        "footerCentered":  true,
+        "heroTextCoversPhoto":  null,
+        "blogTextCoversPhotos":  false,
+        "aboutHeadings":  [
+
+                          ],
+        "heroColumns":  null
+    },
+    {
+        "page":  "about.html",
+        "width":  390,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  false,
+        "credentialsVisible":  false,
+        "footerCentered":  true,
+        "heroTextCoversPhoto":  null,
+        "blogTextCoversPhotos":  false,
+        "aboutHeadings":  [
+                              "Our Beginnings",
+                              "Our Team",
+                              "Professional Standards"
+                          ],
+        "heroColumns":  null
+    },
+    {
+        "page":  "index.html",
+        "width":  500,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  false,
+        "credentialsVisible":  false,
+        "footerCentered":  true,
+        "heroTextCoversPhoto":  false,
+        "blogTextCoversPhotos":  false,
+        "aboutHeadings":  [
+
+                          ],
+        "heroColumns":  1
+    },
+    {
+        "page":  "blog.html",
+        "width":  500,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  false,
+        "credentialsVisible":  false,
+        "footerCentered":  true,
+        "heroTextCoversPhoto":  null,
+        "blogTextCoversPhotos":  false,
+        "aboutHeadings":  [
+
+                          ],
+        "heroColumns":  null
+    },
+    {
+        "page":  "about.html",
+        "width":  500,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  false,
+        "credentialsVisible":  false,
+        "footerCentered":  true,
+        "heroTextCoversPhoto":  null,
+        "blogTextCoversPhotos":  false,
+        "aboutHeadings":  [
+                              "Our Beginnings",
+                              "Our Team",
+                              "Professional Standards"
+                          ],
+        "heroColumns":  null
+    },
+    {
+        "page":  "index.html",
+        "width":  768,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  true,
+        "credentialsVisible":  true,
+        "footerCentered":  false,
+        "heroTextCoversPhoto":  true,
+        "blogTextCoversPhotos":  false,
+        "aboutHeadings":  [
+
+                          ],
+        "heroColumns":  2
+    },
+    {
+        "page":  "blog.html",
+        "width":  768,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  true,
+        "credentialsVisible":  false,
+        "footerCentered":  false,
+        "heroTextCoversPhoto":  null,
+        "blogTextCoversPhotos":  true,
+        "aboutHeadings":  [
+
+                          ],
+        "heroColumns":  null
+    },
+    {
+        "page":  "about.html",
+        "width":  768,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  true,
+        "credentialsVisible":  false,
+        "footerCentered":  false,
+        "heroTextCoversPhoto":  null,
+        "blogTextCoversPhotos":  false,
+        "aboutHeadings":  [
+                              "Our Beginnings",
+                              "Our Team",
+                              "Professional Standards"
+                          ],
+        "heroColumns":  null
+    },
+    {
+        "page":  "index.html",
+        "width":  1440,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  true,
+        "credentialsVisible":  true,
+        "footerCentered":  false,
+        "heroTextCoversPhoto":  true,
+        "blogTextCoversPhotos":  false,
+        "aboutHeadings":  [
+
+                          ],
+        "heroColumns":  3
+    },
+    {
+        "page":  "blog.html",
+        "width":  1440,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  true,
+        "credentialsVisible":  false,
+        "footerCentered":  false,
+        "heroTextCoversPhoto":  null,
+        "blogTextCoversPhotos":  true,
+        "aboutHeadings":  [
+
+                          ],
+        "heroColumns":  null
+    },
+    {
+        "page":  "about.html",
+        "width":  1440,
+        "overflow":  false,
+        "arrows":  false,
+        "licenseVisible":  true,
+        "credentialsVisible":  false,
+        "footerCentered":  false,
+        "heroTextCoversPhoto":  null,
+        "blogTextCoversPhotos":  false,
+        "aboutHeadings":  [
+                              "Our Beginnings",
+                              "Our Team",
+                              "Professional Standards"
+                          ],
+        "heroColumns":  null
+    }
+]

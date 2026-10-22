@@ -1,0 +1,56 @@
+﻿{
+    "photoPlacements":  195,
+    "issues":  [
+
+               ],
+    "cities":  [
+                   {
+                       "city":  "locations/manhattan-beach.html",
+                       "cardMatchesHero":  true
+                   },
+                   {
+                       "city":  "locations/beverly-hills.html",
+                       "cardMatchesHero":  true
+                   },
+                   {
+                       "city":  "locations/baldwin-hills.html",
+                       "cardMatchesHero":  true
+                   },
+                   {
+                       "city":  "locations/upland.html",
+                       "cardMatchesHero":  true
+                   },
+                   {
+                       "city":  "locations/chino-hills.html",
+                       "cardMatchesHero":  true
+                   },
+                   {
+                       "city":  "locations/rancho-cucamonga.html",
+                       "cardMatchesHero":  true
+                   },
+                   {
+                       "city":  "locations/san-marino.html",
+                       "cardMatchesHero":  true
+                   },
+                   {
+                       "city":  "locations/calabasas.html",
+                       "cardMatchesHero":  true
+                   },
+                   {
+                       "city":  "locations/lake-arrowhead.html",
+                       "cardMatchesHero":  true
+                   },
+                   {
+                       "city":  "locations/big-bear-lake.html",
+                       "cardMatchesHero":  true
+                   },
+                   {
+                       "city":  "locations/culver-city.html",
+                       "cardMatchesHero":  true
+                   },
+                   {
+                       "city":  "locations/malibu.html",
+                       "cardMatchesHero":  true
+                   }
+               ]
+}

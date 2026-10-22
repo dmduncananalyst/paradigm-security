@@ -1,0 +1,57 @@
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 8 Tf 9.6 TL ET
+.4 .443137 .478431 rg
+BT 1 0 0 1 45 28 Tm (Paradigm Security Services | October 21, 2026) Tj T* ET
+BT 1 0 0 1 562.552 28 Tm (2) Tj T* ET
+q
+1 0 0 1 54 690 cm
+q
+BT 1 0 0 1 0 38 Tm 16 TL /F1 10 Tf 0 0 0 rg (colleagues long after the party ends. The presence of guards cannot substitute for respectful behavior, clear) Tj T* (company policies, or sound managerial judgment. Security is a supporting resource, not a cure for every) Tj T* (organizational problem.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 659 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (A licensed and appropriate presence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 492 cm
+q
+BT 1 0 0 1 0 150 Tm 16 TL /F1 10 Tf 0 0 0 rg (In California, private security work is regulated by the Bureau of Security and Investigative Services. Its official) Tj T* (guidance explains registration, background checks, and training requirements for guards in regulated roles. The) Tj T* (requirements depend on the actual work and employment arrangement. Simply checking invitations does not) Tj T* (automatically make every employee a regulated guard, and an individual guard registration is not the same as a) Tj T* (company license.) Tj  T*  T* (For a business considering professional event coverage, understanding who is responsible and whether the) Tj T* (provider has the appropriate authorization matters. These are practical questions about accountability, not) Tj T* (decorative credentials. Reliable information should come from the regulator rather than broad statements made in) Tj T* (advertising.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 461 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (The celebration people remember) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 326 cm
+q
+BT 1 0 0 1 0 118 Tm 16 TL /F1 10 Tf 0 0 0 rg (A successful holiday party is remembered for its atmosphere, conversations, and appreciation. Guests should not) Tj T* (have to think about how a difficult situation would be handled. Some gatherings can achieve that with normal) Tj T* -0.127857 Tw (venue and hosting arrangements. Others benefit from dedicated security professionals who can support an orderly) Tj T* 0 Tw (environment without becoming the center of attention.) Tj  T*  T* (The purpose of security is not to promise that no incident can happen. It is to help an organization approach a) Tj T* (meaningful event with care for the people attending. That balance between celebration and responsibility is what) Tj T* (makes professional planning worthwhile.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 295 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Sources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 275 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F1 8.5 Tf 0 0 0 rg (California BSIS, Security Guard Registration: ) Tj .078431 .356863 .521569 rg (https://bsis.ca.gov/forms_pubs/guard_fact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 255 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F1 8.5 Tf 0 0 0 rg (California BSIS, Licenses and Applications: ) Tj .078431 .356863 .521569 rg (https://www.bsis.ca.gov/licenses) Tj T* ET
+Q
+Q
+ 

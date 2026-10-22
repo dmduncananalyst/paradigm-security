@@ -1,0 +1,27 @@
+LOCAL FEEDBACK CORRECTIONS, OCTOBER 21, 2026
+
+Read Article is centered, has no arrow, and stays white in normal, hover, focus, active, and visited states. The approved blog layout and all three original PNG photos remain.
+Our Story, Our Beginnings, Our Team, and Professional Standards are centered on About.
+Sources now use descriptive clickable source names with separate spacing instead of long visible URL strings. Every original reference URL is preserved. Article CTAs have 94 pixels of space after the source area.
+
+QUESTION-ONLY CHAT
+The active implementation is redesign/question-chat.js. All service questions, city, name, email, and phone are collected as individual chat questions. No embedded form or separate contact fields appear at the end. The final chat question asks permission to send the details.
+The existing HubSpot portal 247103073 and form 8b3622a2-cd01-49d0-9d1f-f05c767ab1fa are retained. The complete question-and-answer transcript, including contact answers and page context, maps to message. Contact details also map to firstname, lastname, email, and phone.
+The submission implementation follows HubSpot's public Forms API documentation: https://developers.hubspot.com/docs/api-reference/legacy/marketing/forms/v3-legacy/submit-data-unauthenticated
+Local browser tests intercept submission requests and verify field values, complete message content, success handling, and failed-send recovery. No real inquiry was sent, so live delivery was not tested.
+
+PHOTOS
+Reviewed all currently used photo sources and their page placements. Corrected the dispensary images used for mall/retail content, the cropped Asset Protection composition, repeated topic-card photographs, and similar Event/Film and Estate/School compositions. Retail topics now have separate relevant scenes for holiday crowds, store observation, grocery shoppers, parking, management coordination, and inventory records.
+The former Loss Prevention boutique photograph is now used on the Malls and Shopping Centers page. Loss Prevention uses a new officer-observing-store scene. Asset Protection uses a wider image showing the officer and full pallet without changing the image dimensions. All new card photographs are 1536x1024, with complete subject framing. Armed illustrations show holstered firearms; unarmed illustrations do not. Dogs and bicycles retain their specific service contexts.
+18 replacement photographs were generated with the built-in image generation tool and visually reviewed. Final assets: assets/approved-generated/feedback-*.jpg. Full prompts and generation records: redesign/feedback-generation.json and redesign/feedback-armed-generation.json.
+Approved Blog, Safety, county/city, Careers, and About photo tags are locked in redesign/approved-photo-lock.json. All remain unchanged. Card-to-city matching is preserved. No identical photographs repeat within an individual page; preview-to-destination reuse remains intentional.
+
+VALIDATION
+89 pages passed static link, image, metadata, canonical, heading, and structured-data checks.
+All 89 pages passed responsive browser checks at 1440, 1024, 920, 768, 730, and 390 pixels. Card sizes and source proportions remain consistent. Navigation, dropdowns, Careers link, homepage sliding strip, blog preview clicks, and question-only chats passed.
+Blog prose still matches the complete supplied PDF. All original article titles, dates, descriptions, sources, and approved photo hashes passed verification.
+Read Article colors were checked using forced browser hover, focus, active, and visited states. About alignment and article CTA spacing passed computed-layout checks.
+Results: redesign/feedback-verification.json, redesign/read-article-states.json, redesign/question-chat-preview.json, redesign/october21-verification.json, redesign/audit-results.json, and redesign/browser-*.json.
+The rebuild now uses the already verified project copies of the approved blog PNGs and checks their hashes, without depending on original Desktop attachment paths.
+
+All work remains local. Nothing committed, pushed, published, or deployed. No real HubSpot inquiry submitted.

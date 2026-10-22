@@ -1,0 +1,22 @@
+{
+    "width":  768,
+    "touch":  true,
+    "navVisible":  true,
+    "menuButtons":  0,
+    "columns":  2,
+    "overflow":  false,
+    "dropdowns":  [
+                      {
+                          "label":  "Services",
+                          "open":  true,
+                          "expanded":  "true",
+                          "links":  9
+                      },
+                      {
+                          "label":  "Protection",
+                          "open":  true,
+                          "expanded":  "true",
+                          "links":  13
+                      }
+                  ]
+}

@@ -1,0 +1,16 @@
+{
+    "scope":  "Complete redesign of all pages; previous previews rejected",
+    "preservedAboutPhoto":  {
+                                "path":  "assets/reference/asset-14.jpg",
+                                "sha256":  "7308D3BC5CB81EAA702133AC4197F56D17931A170B1BAE4839CC7AC80CFE5942",
+                                "placement":  "About page",
+                                "requirement":  "Keep this exact photograph of the two Paradigm officers unchanged"
+                            },
+    "brandColors":  [
+                        "#313087"
+                    ],
+    "phone":  "818-746-5432",
+    "publishedEmail":  false,
+    "blogContent":  "No posts supplied; keep blank",
+    "visualDirection":  "New site-wide design chosen and implemented by Codex; no external reference required"
+}

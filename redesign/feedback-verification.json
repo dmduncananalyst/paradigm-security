@@ -1,0 +1,58 @@
+﻿{
+    "lockedPhotoChanges":  [
+
+                           ],
+    "duplicatePhotosWithinPages":  [
+
+                                   ],
+    "viewports":  [
+                      {
+                          "pages":  89,
+                          "blogTextWhite":  true,
+                          "aboutCentered":  true,
+                          "chatMappingFailures":  0,
+                          "blogTextCentered":  true,
+                          "size":  "desktop"
+                      },
+                      {
+                          "pages":  89,
+                          "blogTextWhite":  true,
+                          "aboutCentered":  true,
+                          "chatMappingFailures":  0,
+                          "blogTextCentered":  true,
+                          "size":  "laptop"
+                      },
+                      {
+                          "pages":  89,
+                          "blogTextWhite":  true,
+                          "aboutCentered":  true,
+                          "chatMappingFailures":  0,
+                          "blogTextCentered":  true,
+                          "size":  "short-window"
+                      },
+                      {
+                          "pages":  89,
+                          "blogTextWhite":  true,
+                          "aboutCentered":  true,
+                          "chatMappingFailures":  0,
+                          "blogTextCentered":  true,
+                          "size":  "tablet"
+                      },
+                      {
+                          "pages":  89,
+                          "blogTextWhite":  true,
+                          "aboutCentered":  true,
+                          "chatMappingFailures":  0,
+                          "blogTextCentered":  true,
+                          "size":  "ide-preview"
+                      },
+                      {
+                          "pages":  89,
+                          "blogTextWhite":  true,
+                          "aboutCentered":  true,
+                          "chatMappingFailures":  0,
+                          "blogTextCentered":  true,
+                          "size":  "mobile"
+                      }
+                  ]
+}

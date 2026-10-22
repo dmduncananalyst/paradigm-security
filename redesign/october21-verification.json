@@ -1,0 +1,76 @@
+﻿{
+    "careersPhotoPreserved":  true,
+    "articles":  [
+                     {
+                         "sources":  2,
+                         "words":  574,
+                         "article":  "blog-company-holiday-party-security-risks.html",
+                         "checks":  {
+                                        "oneH1":  true,
+                                        "sources":  true,
+                                        "sitemap":  true,
+                                        "serviceLink":  true,
+                                        "completePdfProse":  true,
+                                        "featured":  true,
+                                        "publication":  true,
+                                        "unchangedPhoto":  true,
+                                        "paragraphs":  true,
+                                        "articleSchema":  true,
+                                        "exactDescription":  true,
+                                        "headings":  true,
+                                        "exactTitle":  true,
+                                        "canonical":  true,
+                                        "preview":  true
+                                    }
+                     },
+                     {
+                         "sources":  3,
+                         "words":  576,
+                         "article":  "blog-holiday-shopping-parking-lot-security.html",
+                         "checks":  {
+                                        "oneH1":  true,
+                                        "sources":  true,
+                                        "sitemap":  true,
+                                        "serviceLink":  true,
+                                        "completePdfProse":  true,
+                                        "featured":  true,
+                                        "publication":  true,
+                                        "unchangedPhoto":  true,
+                                        "paragraphs":  true,
+                                        "articleSchema":  true,
+                                        "exactDescription":  true,
+                                        "headings":  true,
+                                        "exactTitle":  true,
+                                        "canonical":  true,
+                                        "preview":  true
+                                    }
+                     },
+                     {
+                         "sources":  3,
+                         "words":  549,
+                         "article":  "blog-construction-site-theft-holiday-shutdowns.html",
+                         "checks":  {
+                                        "oneH1":  true,
+                                        "sources":  true,
+                                        "sitemap":  true,
+                                        "serviceLink":  true,
+                                        "completePdfProse":  true,
+                                        "featured":  true,
+                                        "publication":  true,
+                                        "unchangedPhoto":  true,
+                                        "paragraphs":  true,
+                                        "articleSchema":  true,
+                                        "exactDescription":  true,
+                                        "headings":  true,
+                                        "exactTitle":  true,
+                                        "canonical":  true,
+                                        "preview":  true
+                                    }
+                     }
+                 ],
+    "errors":  [
+
+               ],
+    "aboutPhotoPreserved":  true,
+    "adjacentDuplicates":  0
+}

@@ -1,0 +1,2901 @@
+{
+  "pages": [
+    {
+      "path": "security.html",
+      "title": "Security Guard Services & Protection | Paradigm Security Services",
+      "description": "Explore armed and unarmed security, patrols, asset protection, and property-specific security services in Los Angeles and San Bernardino counties.",
+      "h1": [
+        "Professional Security, Planned Around Your Needs"
+      ],
+      "images": [],
+      "text_words": 191,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "pictures-to-use.html",
+      "title": "Pictures to Use",
+      "description": "",
+      "h1": [
+        "Pictures to Use"
+      ],
+      "images": [
+        {
+          "src": "assets/1--mall-security-monitoring-the-crowd-e1768404476414.webp",
+          "exists": true,
+          "alt": "Mall Security"
+        },
+        {
+          "src": "assets/1.-mall-security-monitoring-the-crowd-e1768404476414.png",
+          "exists": true,
+          "alt": "Mall Security"
+        },
+        {
+          "src": "assets/a_professional_flrd1wdcmc.png",
+          "exists": true,
+          "alt": "Armed Security Officer"
+        },
+        {
+          "src": "assets/aparment2.webp",
+          "exists": true,
+          "alt": "Aparment"
+        },
+        {
+          "src": "assets/aparmentsecurity2.webp",
+          "exists": true,
+          "alt": "Aparmentsecurity"
+        },
+        {
+          "src": "assets/apartmentguardhero.webp",
+          "exists": true,
+          "alt": "Apartmentguardhero"
+        },
+        {
+          "src": "assets/armed-2-.jpg",
+          "exists": true,
+          "alt": "Armed"
+        },
+        {
+          "src": "assets/armed-client.jpg",
+          "exists": true,
+          "alt": "Armed Client"
+        },
+        {
+          "src": "assets/armed.jpg",
+          "exists": true,
+          "alt": "Armed"
+        },
+        {
+          "src": "assets/article-apartment-visitor-desk.webp",
+          "exists": true,
+          "alt": "Apartment Visitor Desk"
+        },
+        {
+          "src": "assets/article-armed-post-preparation.webp",
+          "exists": true,
+          "alt": "Armed Post Preparation"
+        },
+        {
+          "src": "assets/article-armed-shift-briefing.webp",
+          "exists": true,
+          "alt": "Armed Shift Briefing"
+        },
+        {
+          "src": "assets/article-bank-closing-coordination.webp",
+          "exists": true,
+          "alt": "Bank Closing Coordination"
+        },
+        {
+          "src": "assets/article-bank-opening.webp",
+          "exists": true,
+          "alt": "Bank Opening"
+        },
+        {
+          "src": "assets/article-business-entrance-assistance.webp",
+          "exists": true,
+          "alt": "Business Entrance Assistance"
+        },
+        {
+          "src": "assets/article-cash-transfer-documentation.webp",
+          "exists": true,
+          "alt": "Cash Transfer Documentation"
+        },
+        {
+          "src": "assets/article-construction-evening-handoff.webp",
+          "exists": true,
+          "alt": "Construction Evening Handoff"
+        },
+        {
+          "src": "assets/article-dispensary-inventory-handoff.webp",
+          "exists": true,
+          "alt": "Dispensary Inventory Handoff"
+        },
+        {
+          "src": "assets/article-dispensary-restricted-access.webp",
+          "exists": true,
+          "alt": "Dispensary Restricted Access"
+        },
+        {
+          "src": "assets/article-dispensary-staff-coordination.webp",
+          "exists": true,
+          "alt": "Dispensary Staff Coordination"
+        },
+        {
+          "src": "assets/article-equipment-inventory.webp",
+          "exists": true,
+          "alt": "Equipment Inventory"
+        },
+        {
+          "src": "assets/article-estate-authorized-arrival.webp",
+          "exists": true,
+          "alt": "Estate Authorized Arrival"
+        },
+        {
+          "src": "assets/article-event-venue-patrol.webp",
+          "exists": true,
+          "alt": "Event Venue Patrol"
+        },
+        {
+          "src": "assets/article-executive-arrival.webp",
+          "exists": true,
+          "alt": "Executive Arrival"
+        },
+        {
+          "src": "assets/article-executive-coordination.webp",
+          "exists": true,
+          "alt": "Executive Coordination"
+        },
+        {
+          "src": "assets/article-film-set-access-check.webp",
+          "exists": true,
+          "alt": "Film Set Access Check"
+        },
+        {
+          "src": "assets/article-film-wrap.webp",
+          "exists": true,
+          "alt": "Film Wrap"
+        },
+        {
+          "src": "assets/article-medical-entry.webp",
+          "exists": true,
+          "alt": "Medical Entry"
+        },
+        {
+          "src": "assets/article-medical-reception.webp",
+          "exists": true,
+          "alt": "Medical Reception"
+        },
+        {
+          "src": "assets/article-mobile-patrol-report.webp",
+          "exists": true,
+          "alt": "Mobile Patrol Report"
+        },
+        {
+          "src": "assets/article-office-evening-request.webp",
+          "exists": true,
+          "alt": "Office Evening Request"
+        },
+        {
+          "src": "assets/article-private-event-checkin.webp",
+          "exists": true,
+          "alt": "Private Event Checkin"
+        },
+        {
+          "src": "assets/article-retail-floor-observation.webp",
+          "exists": true,
+          "alt": "Retail Floor Observation"
+        },
+        {
+          "src": "assets/article-retail-inventory-review.webp",
+          "exists": true,
+          "alt": "Retail Inventory Review"
+        },
+        {
+          "src": "assets/article-school-visitor-reception.webp",
+          "exists": true,
+          "alt": "School Visitor Reception"
+        },
+        {
+          "src": "assets/article-shopping-center-parking-patrol.webp",
+          "exists": true,
+          "alt": "Shopping Center Parking Patrol"
+        },
+        {
+          "src": "assets/article-unarmed-business-closing.webp",
+          "exists": true,
+          "alt": "Unarmed Business Closing"
+        },
+        {
+          "src": "assets/article-warehouse-access-review.webp",
+          "exists": true,
+          "alt": "Warehouse Access Review"
+        },
+        {
+          "src": "assets/article-workplace-evening.webp",
+          "exists": true,
+          "alt": "Workplace Evening"
+        },
+        {
+          "src": "assets/asset-protection.webp",
+          "exists": true,
+          "alt": "Asset Protection"
+        },
+        {
+          "src": "assets/assetprotection.webp",
+          "exists": true,
+          "alt": "Assetprotection"
+        },
+        {
+          "src": "assets/bank4.webp",
+          "exists": true,
+          "alt": "Bank"
+        },
+        {
+          "src": "assets/bikesecurity.webp",
+          "exists": true,
+          "alt": "Bikesecurity"
+        },
+        {
+          "src": "assets/cannabis-entry.webp",
+          "exists": true,
+          "alt": "Cannabis Entry"
+        },
+        {
+          "src": "assets/cannibis.webp",
+          "exists": true,
+          "alt": "Cannibis"
+        },
+        {
+          "src": "assets/carousel-apartments.png",
+          "exists": true,
+          "alt": "Apartments"
+        },
+        {
+          "src": "assets/carousel-banks.png",
+          "exists": true,
+          "alt": "Banks"
+        },
+        {
+          "src": "assets/carousel-cannabis-protection.png",
+          "exists": true,
+          "alt": "Cannabis Protection"
+        },
+        {
+          "src": "assets/carousel-construction.png",
+          "exists": true,
+          "alt": "Construction"
+        },
+        {
+          "src": "assets/carousel-hospitals.png",
+          "exists": true,
+          "alt": "Hospitals"
+        },
+        {
+          "src": "assets/carousel-malls.png",
+          "exists": true,
+          "alt": "Malls"
+        },
+        {
+          "src": "assets/carousel-office.png",
+          "exists": true,
+          "alt": "Office"
+        },
+        {
+          "src": "assets/carousel-schools.png",
+          "exists": true,
+          "alt": "Schools"
+        },
+        {
+          "src": "assets/cashtransport.webp",
+          "exists": true,
+          "alt": "Cashtransport"
+        },
+        {
+          "src": "assets/cashtransport2.webp",
+          "exists": true,
+          "alt": "Cashtransport"
+        },
+        {
+          "src": "assets/construction.webp",
+          "exists": true,
+          "alt": "Construction"
+        },
+        {
+          "src": "assets/construction5.webp",
+          "exists": true,
+          "alt": "Construction"
+        },
+        {
+          "src": "assets/entrance-officer.webp",
+          "exists": true,
+          "alt": "Entrance Officer"
+        },
+        {
+          "src": "assets/estate.webp",
+          "exists": true,
+          "alt": "Estate"
+        },
+        {
+          "src": "assets/estate5.webp",
+          "exists": true,
+          "alt": "Estate"
+        },
+        {
+          "src": "assets/generated-team-officer.png",
+          "exists": true,
+          "alt": "Generated Team Officer"
+        },
+        {
+          "src": "assets/hiring-employee.png",
+          "exists": true,
+          "alt": "Hiring Employee"
+        },
+        {
+          "src": "assets/home-video-poster.webp",
+          "exists": true,
+          "alt": "Home Video Poster"
+        },
+        {
+          "src": "assets/home-walkie-talkie.png",
+          "exists": true,
+          "alt": "Home Walkie Talkie"
+        },
+        {
+          "src": "assets/img_4259.jpg",
+          "exists": true,
+          "alt": "Original Company Photo"
+        },
+        {
+          "src": "assets/img_4307.jpg",
+          "exists": true,
+          "alt": "Original Company Photo"
+        },
+        {
+          "src": "assets/k91.webp",
+          "exists": true,
+          "alt": "K"
+        },
+        {
+          "src": "assets/k92.webp",
+          "exists": true,
+          "alt": "K"
+        },
+        {
+          "src": "assets/k9hero.webp",
+          "exists": true,
+          "alt": "Khero"
+        },
+        {
+          "src": "assets/losspreventio2.webp",
+          "exists": true,
+          "alt": "Losspreventio"
+        },
+        {
+          "src": "assets/lossproventionhero.webp",
+          "exists": true,
+          "alt": "Lossproventionhero"
+        },
+        {
+          "src": "assets/mall-portrait.webp",
+          "exists": true,
+          "alt": "Mall Portrait"
+        },
+        {
+          "src": "assets/mall2.webp",
+          "exists": true,
+          "alt": "Mall"
+        },
+        {
+          "src": "assets/office2.webp",
+          "exists": true,
+          "alt": "Office"
+        },
+        {
+          "src": "assets/officebuilding.webp",
+          "exists": true,
+          "alt": "Officebuilding"
+        },
+        {
+          "src": "assets/paradigm-patrol-car.png",
+          "exists": true,
+          "alt": "Paradigm Patrol Car"
+        },
+        {
+          "src": "assets/paradigm-patrol-suv.png",
+          "exists": true,
+          "alt": "Paradigm Patrol Suv"
+        },
+        {
+          "src": "assets/paradigm-sidearm.png",
+          "exists": true,
+          "alt": "Paradigm Sidearm"
+        },
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Logo"
+        },
+        {
+          "src": "assets/production-filmsite1.webp",
+          "exists": true,
+          "alt": "Production Filmsite"
+        },
+        {
+          "src": "assets/school.webp",
+          "exists": true,
+          "alt": "School"
+        },
+        {
+          "src": "assets/school2.webp",
+          "exists": true,
+          "alt": "School"
+        },
+        {
+          "src": "assets/security-carpatrol.jpg",
+          "exists": true,
+          "alt": "Security Carpatrol"
+        },
+        {
+          "src": "assets/security-guard.jpg",
+          "exists": true,
+          "alt": "Security Guard"
+        },
+        {
+          "src": "assets/security-team-1-.png",
+          "exists": true,
+          "alt": "Security Team"
+        },
+        {
+          "src": "assets/unarmedsecurity2.webp",
+          "exists": true,
+          "alt": "Unarmedsecurity"
+        },
+        {
+          "src": "assets/unsplash-image-2kidkmzmo-k.jpg",
+          "exists": true,
+          "alt": "Original Property Photo"
+        },
+        {
+          "src": "assets/unsplash-image-8fxji5wuwkc.jpg",
+          "exists": true,
+          "alt": "Original Property Photo"
+        },
+        {
+          "src": "assets/unsplash-image-ou3axtwnnaq.jpg",
+          "exists": true,
+          "alt": "Original Property Photo"
+        },
+        {
+          "src": "assets/vehiclepartrol.webp",
+          "exists": true,
+          "alt": "Vehiclepartrol"
+        }
+      ],
+      "text_words": 362,
+      "has_chat": false,
+      "qa_count": 0
+    },
+    {
+      "path": "employment.html",
+      "title": "Security Officer Employment | Paradigm Security Services",
+      "description": "Apply for security officer employment with Paradigm Security Services in Los Angeles and San Bernardino counties.",
+      "h1": [
+        "Employment"
+      ],
+      "images": [
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "assets/entrance-officer.webp",
+          "exists": true,
+          "alt": "Security officer at a property entrance"
+        },
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 86,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "services.html",
+      "title": "Security Services | Paradigm Security Services",
+      "description": "Explore Paradigm security services for businesses, residential properties, events, and private clients in Los Angeles and San Bernardino counties.",
+      "h1": [
+        "Security Services"
+      ],
+      "images": [
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "assets/a_professional_flrd1wdcmc.png",
+          "exists": true,
+          "alt": "Armed Security"
+        },
+        {
+          "src": "assets/unarmedsecurity2.webp",
+          "exists": true,
+          "alt": "Unarmed Security"
+        },
+        {
+          "src": "assets/asset-protection.webp",
+          "exists": true,
+          "alt": "Asset Protection"
+        },
+        {
+          "src": "assets/lossproventionhero.webp",
+          "exists": true,
+          "alt": "Loss Prevention"
+        },
+        {
+          "src": "assets/cannibis.webp",
+          "exists": true,
+          "alt": "Dispensary Asset Protection"
+        },
+        {
+          "src": "assets/cashtransport.webp",
+          "exists": true,
+          "alt": "Cannabis & Cash Transport"
+        },
+        {
+          "src": "assets/paradigm-patrol-suv.png",
+          "exists": true,
+          "alt": "Vehicle & Bike Patrol"
+        },
+        {
+          "src": "assets/k9hero.webp",
+          "exists": true,
+          "alt": "K9 Narcotic Detection"
+        },
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 135,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "blog.html",
+      "title": "Security Blog | Paradigm Security Services",
+      "description": "Read the Paradigm Security blog about construction theft, police and armed security response times, and security guard arrest authority in California.",
+      "h1": [
+        "Security Blog"
+      ],
+      "images": [
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 108,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "los-angeles-county-security.html",
+      "title": "Security Guards in Los Angeles County | Paradigm Security Services",
+      "description": "Paradigm Security Services provides guards, patrol, and property protection for businesses and private clients in Los Angeles County.",
+      "h1": [
+        "Security in Los Angeles County"
+      ],
+      "images": [
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 329,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "404.html",
+      "title": "Page Not Found | Paradigm Security Services",
+      "description": "Return to Paradigm Security Services to explore security services and articles.",
+      "h1": [
+        "Page Not Found"
+      ],
+      "images": [
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 40,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "about.html",
+      "title": "About Paradigm Security Services | Paradigm Security Services",
+      "description": "Learn about Paradigm Security Services and its focus on people, property, and communities in Los Angeles and San Bernardino counties.",
+      "h1": [
+        "People First. Safety Always."
+      ],
+      "images": [
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "assets/img_4259.jpg",
+          "exists": true,
+          "alt": "Paradigm Security Services team"
+        },
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 334,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "contact.html",
+      "title": "Contact Paradigm Security Services | Paradigm Security Services",
+      "description": "Call or email Paradigm Security Services to request a consultation for security in Los Angeles County or San Bernardino County.",
+      "h1": [
+        "Request a Consultation."
+      ],
+      "images": [
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 90,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "index.html",
+      "title": "Security Guards in Los Angeles & San Bernardino County | Paradigm Security Services",
+      "description": "Paradigm Security Services provides armed and unarmed guards, property protection, patrol, and specialized security across Los Angeles and San Bernardino counties.",
+      "h1": [
+        "Paradigm Security Services"
+      ],
+      "images": [
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "assets/live-home-security.png",
+          "exists": true,
+          "alt": "Security officer at a property"
+        },
+        {
+          "src": "assets/unsplash-image-2kidkmzmo-k.jpg",
+          "exists": true,
+          "alt": "Architectural property setting"
+        },
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        },
+        {
+          "src": "assets/security-guard.jpg",
+          "exists": true,
+          "alt": "Security officer at a property"
+        },
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 252,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "safety.html",
+      "title": "Security & Safety Questions Answered | Paradigm Security",
+      "description": "Explore practical answers about security guards, police authority, property protection, and safety for businesses, homes, schools, and events.",
+      "h1": [
+        "Safety: Security Questions Answered"
+      ],
+      "images": [
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 582,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "protection.html",
+      "title": "Protection | Paradigm Security Services",
+      "description": "Explore Paradigm protection for businesses, residential properties, events, and private clients in Los Angeles and San Bernardino counties.",
+      "h1": [
+        "Protection"
+      ],
+      "images": [
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "assets/mall2.webp",
+          "exists": true,
+          "alt": "Malls & Shopping Centers"
+        },
+        {
+          "src": "assets/bank4.webp",
+          "exists": true,
+          "alt": "Banks"
+        },
+        {
+          "src": "assets/cannabis-entry.webp",
+          "exists": true,
+          "alt": "Cannabis Dispensaries"
+        },
+        {
+          "src": "assets/apartmentguardhero.webp",
+          "exists": true,
+          "alt": "Apartments & Residential Communities"
+        },
+        {
+          "src": "assets/officebuilding.webp",
+          "exists": true,
+          "alt": "Office Buildings"
+        },
+        {
+          "src": "assets/construction5.webp",
+          "exists": true,
+          "alt": "Construction Sites"
+        },
+        {
+          "src": "assets/school.webp",
+          "exists": true,
+          "alt": "Schools"
+        },
+        {
+          "src": "assets/article-medical-reception.webp",
+          "exists": true,
+          "alt": "Hospitals & Medical Facilities"
+        },
+        {
+          "src": "assets/article-private-event-checkin.webp",
+          "exists": true,
+          "alt": "Events & Private Functions"
+        },
+        {
+          "src": "assets/production-filmsite1.webp",
+          "exists": true,
+          "alt": "Film & Production Sites"
+        },
+        {
+          "src": "assets/estate5.webp",
+          "exists": true,
+          "alt": "Private Homes & Estates"
+        },
+        {
+          "src": "assets/article-executive-arrival.webp",
+          "exists": true,
+          "alt": "Individuals & Executives"
+        },
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 157,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "san-bernardino-county-security.html",
+      "title": "Security Guards in San Bernardino County | Paradigm Security Services",
+      "description": "Paradigm Security Services provides guards, patrol, and property protection for businesses and private clients in San Bernardino County.",
+      "h1": [
+        "Security in San Bernardino County"
+      ],
+      "images": [
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 323,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "protection/film-production-sites.html",
+      "title": "Film and Production Sites | Paradigm Security Services",
+      "description": "Set access, equipment and location security for film, television and commercial productions in Southern California.",
+      "h1": [
+        "Film and Production Sites"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/production-filmsite1.webp",
+          "exists": true,
+          "alt": "Film and Production Sites"
+        },
+        {
+          "src": "../assets/article-film-set-access-check.webp",
+          "exists": true,
+          "alt": "Officer at a production site entrance"
+        },
+        {
+          "src": "../assets/article-film-wrap.webp",
+          "exists": true,
+          "alt": "Officer with production staff and equipment"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 687,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "protection/events.html",
+      "title": "Events and Private Functions | Paradigm Security Services",
+      "description": "Event security for corporate gatherings, private functions and public events in Los Angeles County and San Bernardino County.",
+      "h1": [
+        "Events and Private Functions"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/article-private-event-checkin.webp",
+          "exists": true,
+          "alt": "Events and Private Functions"
+        },
+        {
+          "src": "../assets/article-private-event-checkin.webp",
+          "exists": true,
+          "alt": "Security personnel at an event check in area"
+        },
+        {
+          "src": "../assets/article-event-venue-patrol.webp",
+          "exists": true,
+          "alt": "Officers in an event venue"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 728,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "protection/individuals-executives.html",
+      "title": "Individuals and Executives | Paradigm Security Services",
+      "description": "Personal protection and executive security for private individuals, public figures and business clients in Southern California.",
+      "h1": [
+        "Individuals and Executives"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/article-executive-arrival.webp",
+          "exists": true,
+          "alt": "Individuals and Executives"
+        },
+        {
+          "src": "../assets/article-executive-arrival.webp",
+          "exists": true,
+          "alt": "Protection personnel accompanying a client"
+        },
+        {
+          "src": "../assets/article-executive-coordination.webp",
+          "exists": true,
+          "alt": "Protection representative speaking with a client"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 708,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "protection/cannabis-dispensaries.html",
+      "title": "Cannabis Dispensaries | Paradigm Security Services",
+      "description": "Premises security for licensed cannabis dispensaries, customer areas and business access in Los Angeles and San Bernardino counties.",
+      "h1": [
+        "Cannabis Dispensaries"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/cannabis-entry.webp",
+          "exists": true,
+          "alt": "Cannabis Dispensaries"
+        },
+        {
+          "src": "../assets/article-dispensary-restricted-access.webp",
+          "exists": true,
+          "alt": "Officer at a dispensary entrance"
+        },
+        {
+          "src": "../assets/article-dispensary-staff-coordination.webp",
+          "exists": true,
+          "alt": "Officers speaking with dispensary staff"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 598,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "protection/office-buildings.html",
+      "title": "Office Buildings | Paradigm Security Services",
+      "description": "Lobby, visitor and property security for single tenant and multiple tenant offices in Los Angeles and San Bernardino counties.",
+      "h1": [
+        "Office Buildings"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/officebuilding.webp",
+          "exists": true,
+          "alt": "Office Buildings"
+        },
+        {
+          "src": "../assets/article-office-evening-request.webp",
+          "exists": true,
+          "alt": "Employee speaking with an officer at office reception"
+        },
+        {
+          "src": "../assets/article-workplace-evening.webp",
+          "exists": true,
+          "alt": "Officer accompanying employees outside an office"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 684,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "protection/hospitals-medical-facilities.html",
+      "title": "Hospitals and Medical Facilities | Paradigm Security Services",
+      "description": "Healthcare security for hospital entrances, medical offices, visitor areas and parking facilities across Los Angeles and San Bernardino counties.",
+      "h1": [
+        "Hospitals and Medical Facilities"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/article-medical-reception.webp",
+          "exists": true,
+          "alt": "Hospitals and Medical Facilities"
+        },
+        {
+          "src": "../assets/article-medical-reception.webp",
+          "exists": true,
+          "alt": "Officer speaking with a medical facility visitor"
+        },
+        {
+          "src": "../assets/article-medical-entry.webp",
+          "exists": true,
+          "alt": "Officer assisting visitors at a medical entrance"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 683,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "protection/private-homes-estates.html",
+      "title": "Private Homes and Estates | Paradigm Security Services",
+      "description": "Residential security for gates, estate grounds and household privacy in Los Angeles County and San Bernardino County.",
+      "h1": [
+        "Private Homes and Estates"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/estate5.webp",
+          "exists": true,
+          "alt": "Private Homes and Estates"
+        },
+        {
+          "src": "../assets/article-estate-authorized-arrival.webp",
+          "exists": true,
+          "alt": "Officer and visitors near an estate entrance"
+        },
+        {
+          "src": "../assets/estate.webp",
+          "exists": true,
+          "alt": "Private estate setting"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 689,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "protection/banks.html",
+      "title": "Banks and Financial Institutions | Paradigm Security Services",
+      "description": "Security for bank branches, financial offices, lobbies and ATM areas in Los Angeles County and San Bernardino County.",
+      "h1": [
+        "Banks and Financial Institutions"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/bank4.webp",
+          "exists": true,
+          "alt": "Banks and Financial Institutions"
+        },
+        {
+          "src": "../assets/article-bank-opening.webp",
+          "exists": true,
+          "alt": "Security officer at a bank entrance"
+        },
+        {
+          "src": "../assets/article-bank-closing-coordination.webp",
+          "exists": true,
+          "alt": "Officer and bank representative in a branch"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 699,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "protection/apartments.html",
+      "title": "Apartments and Residential Communities | Paradigm Security Services",
+      "description": "Apartment community security for shared areas, visitor access and property management support in Los Angeles and San Bernardino counties.",
+      "h1": [
+        "Apartments and Residential Communities"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/apartmentguardhero.webp",
+          "exists": true,
+          "alt": "Apartments and Residential Communities"
+        },
+        {
+          "src": "../assets/article-apartment-visitor-desk.webp",
+          "exists": true,
+          "alt": "Officer assisting a visitor at residential reception"
+        },
+        {
+          "src": "../assets/aparmentsecurity2.webp",
+          "exists": true,
+          "alt": "Residential property security setting"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 696,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "protection/malls-shopping-centers.html",
+      "title": "Malls and Shopping Centers | Paradigm Security Services",
+      "description": "Security for indoor malls, outdoor shopping centers, common areas and parking facilities in Los Angeles and San Bernardino counties.",
+      "h1": [
+        "Malls and Shopping Centers"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/mall2.webp",
+          "exists": true,
+          "alt": "Malls and Shopping Centers"
+        },
+        {
+          "src": "../assets/article-shopping-center-parking-patrol.webp",
+          "exists": true,
+          "alt": "Shopping center parking area and officer"
+        },
+        {
+          "src": "../assets/article-retail-floor-observation.webp",
+          "exists": true,
+          "alt": "Retail common area with security presence"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 711,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "protection/schools.html",
+      "title": "Schools and Campuses | Paradigm Security Services",
+      "description": "School and campus security supporting visitor access, administration and school events in Los Angeles and San Bernardino counties.",
+      "h1": [
+        "Schools and Campuses"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/school.webp",
+          "exists": true,
+          "alt": "Schools and Campuses"
+        },
+        {
+          "src": "../assets/article-school-visitor-reception.webp",
+          "exists": true,
+          "alt": "Officer assisting a campus visitor"
+        },
+        {
+          "src": "../assets/school2.webp",
+          "exists": true,
+          "alt": "School property setting"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 692,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "protection/construction-sites.html",
+      "title": "Construction Sites | Paradigm Security Services",
+      "description": "Construction site security for equipment, materials, property observation and authorized access in Los Angeles and San Bernardino counties.",
+      "h1": [
+        "Construction Sites"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/construction5.webp",
+          "exists": true,
+          "alt": "Construction Sites"
+        },
+        {
+          "src": "../assets/article-construction-evening-handoff.webp",
+          "exists": true,
+          "alt": "Security personnel at a construction site"
+        },
+        {
+          "src": "../assets/article-equipment-inventory.webp",
+          "exists": true,
+          "alt": "Officer beside stored site equipment"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 730,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "locations/beverly-hills.html",
+      "title": "Security Guard Services in Beverly Hills | Paradigm Security Services",
+      "description": "Security for Beverly Hills retail properties, private events, filming locations, and personal protection needs, with responsibilities defined for each setting.",
+      "h1": [
+        "Security Guard Services in Beverly Hills"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 691,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "locations/lake-arrowhead.html",
+      "title": "Security Guard Services in Lake Arrowhead | Paradigm Security Services",
+      "description": "Lake Arrowhead security support shaped by Village commerce, private lake access rights and the distinct responsibilities of mountain property owners.",
+      "h1": [
+        "Security Guard Services in Lake Arrowhead"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 656,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "locations/culver-city.html",
+      "title": "Security Guard Services in Culver City | Paradigm Security Services",
+      "description": "A local security perspective shaped by The Culver Steps, the Arts District, public art, and filming locations.",
+      "h1": [
+        "Security Guard Services in Culver City"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 676,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "locations/baldwin-hills.html",
+      "title": "Security Guard Services in Baldwin Hills, Los Angeles | Paradigm Security Services",
+      "description": "Security responsibilities for Baldwin Hills retail properties, cultural spaces, residential properties, and changes in property use within Los Angeles.",
+      "h1": [
+        "Security Guard Services in Baldwin Hills, Los Angeles"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 713,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "locations/rancho-cucamonga.html",
+      "title": "Security Guard Services in Rancho Cucamonga | Paradigm Security Services",
+      "description": "Rancho Cucamonga security support shaped by Victoria Gardens, cultural venues and the distinction between commercial activity and planned development.",
+      "h1": [
+        "Security Guard Services in Rancho Cucamonga"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 679,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "locations/san-marino.html",
+      "title": "Security Guard Services in San Marino | Paradigm Security Services",
+      "description": "Property, personal, and event security in San Marino, with attention to the distinct responsibilities of residential settings and cultural venues.",
+      "h1": [
+        "Security Guard Services in San Marino"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 672,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "locations/chino-hills.html",
+      "title": "Security Guard Services in Chino Hills | Paradigm Security Services",
+      "description": "Security support for Chino Hills businesses and properties, informed by the city\u2019s pedestrian shopping districts and neighborhood commercial centers.",
+      "h1": [
+        "Security Guard Services in Chino Hills"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 693,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "locations/big-bear-lake.html",
+      "title": "Security Guard Services in Big Bear Lake | Paradigm Security Services",
+      "description": "Security support in Big Bear Lake shaped by The Village, mountain resort activity, marina businesses and visitor properties.",
+      "h1": [
+        "Security Guard Services in Big Bear Lake"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 662,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "locations/manhattan-beach.html",
+      "title": "Security Guard Services in Manhattan Beach | Paradigm Security Services",
+      "description": "A local perspective shaped by downtown parking, the historic pier, beach volleyball, and Manhattan Village.",
+      "h1": [
+        "Security Guard Services in Manhattan Beach"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 672,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "locations/malibu.html",
+      "title": "Security Guard Services in Malibu | Paradigm Security Services",
+      "description": "Security context grounded in Malibu beach jurisdictions, Malibu Lagoon, Legacy Park, and civic cultural destinations.",
+      "h1": [
+        "Security Guard Services in Malibu"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 663,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "locations/upland.html",
+      "title": "Security Guard Services in Upland | Paradigm Security Services",
+      "description": "Upland security support for its historic downtown, Foothill Boulevard businesses and properties with clearly defined ownership responsibilities.",
+      "h1": [
+        "Security Guard Services in Upland"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 673,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "locations/calabasas.html",
+      "title": "Security Guard Services in Calabasas | Paradigm Security Services",
+      "description": "Security considerations shaped by The Commons, Old Town, civic destinations, and Calabasas community events.",
+      "h1": [
+        "Security Guard Services in Calabasas"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 672,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/stalking-private-protection-law-enforcement.html",
+      "title": "Stalking, Private Protection, and Law Enforcement: Distinct Responsibilities | Paradigm Security Services",
+      "description": "Understand how personal protection, police reporting, and California court orders address different needs.",
+      "h1": [
+        "Stalking, Private Protection, and Law Enforcement: Distinct Responsibilities"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 712,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/trespass-property-removal-boundaries.html",
+      "title": "Trespassing and Removal from Private Property: Legal Boundaries | Paradigm Security Services",
+      "description": "Why a request to leave, a property dispute, and criminal trespass require different analysis.",
+      "h1": [
+        "Trespassing and Removal from Private Property: Legal Boundaries"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 705,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/event-venue-and-organizer-responsibility.html",
+      "title": "Event Safety Responsibility Between Venues and Organizers | Paradigm Security Services",
+      "description": "Why event incidents require a closer look at property control, organizer decisions and the scope of contracted security.",
+      "h1": [
+        "Event Safety Responsibility Between Venues and Organizers"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 642,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/california-cannabis-security-and-armed-guard-assumptions.html",
+      "title": "California Cannabis Security Requirements and Armed Guard Assumptions | Paradigm Security Services",
+      "description": "The distinction between required security personnel, firearms credentials and additional local conditions for California cannabis businesses.",
+      "h1": [
+        "California Cannabis Security Requirements and Armed Guard Assumptions"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 664,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/former-police-officers-private-security.html",
+      "title": "Former Police Officers in Private Security: Experience and Current Authority | Paradigm Security Services",
+      "description": "Why prior police employment and current legal authority are separate questions in a California security assignment.",
+      "h1": [
+        "Former Police Officers in Private Security: Experience and Current Authority"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 704,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/retail-theft-workers-customer-experience.html",
+      "title": "Retail Theft Affects Workers and the Shopping Experience | Paradigm Security Services",
+      "description": "Why retail theft concerns extend beyond inventory and affect the people using a store.",
+      "h1": [
+        "Retail Theft Affects Workers and the Shopping Experience"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 676,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/visitor-aggression-and-healthcare-worker-safety.html",
+      "title": "Visitor Aggression and Healthcare Worker Safety | Paradigm Security Services",
+      "description": "How threatening visitor behavior affects healthcare workers, patient care and the responsibilities of California healthcare employers.",
+      "h1": [
+        "Visitor Aggression and Healthcare Worker Safety"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 617,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/construction-equipment-theft-responsibility.html",
+      "title": "Equipment Theft Responsibility Among Owners, Contractors, and Storage Providers | Paradigm Security Services",
+      "description": "Why ownership, custody, agreements, and insurance are separate questions after equipment disappears.",
+      "h1": [
+        "Equipment Theft Responsibility Among Owners, Contractors, and Storage Providers"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 674,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/school-visitor-disputes-campus-access-rights.html",
+      "title": "School Visitor Disputes and Campus Access Rights | Paradigm Security Services",
+      "description": "How family participation and visitor restrictions can coexist without making every disagreement a security incident.",
+      "h1": [
+        "School Visitor Disputes and Campus Access Rights"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 690,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/security-police-incident-coordination.html",
+      "title": "Private Security and Police Coordination During an Incident | Paradigm Security Services",
+      "description": "Understand how private security information and police responsibilities remain distinct during an incident.",
+      "h1": [
+        "Private Security and Police Coordination During an Incident"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 711,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/former-employee-threats-workplace-security.html",
+      "title": "Former Employee Threats and Workplace Security Responsibilities | Paradigm Security Services",
+      "description": "Why threats from a former employee remain a workplace safety concern after employment ends.",
+      "h1": [
+        "Former Employee Threats and Workplace Security Responsibilities"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 706,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/landlord-responsibility-repeated-apartment-breakins.html",
+      "title": "Landlord Responsibility After Repeated Apartment Break Ins | Paradigm Security Services",
+      "description": "How maintenance responsibilities, notice, and property circumstances affect the discussion after repeated residential break ins.",
+      "h1": [
+        "Landlord Responsibility After Repeated Apartment Break Ins"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 692,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/bank-security-guards-and-police-authority.html",
+      "title": "Bank Security Guards and the Difference From Police Authority | Paradigm Security Services",
+      "description": "How private bank security differs from police authority and from the bank employee responsible for its security program.",
+      "h1": [
+        "Bank Security Guards and the Difference From Police Authority"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 648,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/executive-protection-bodyguard-difference.html",
+      "title": "Executive Protection and Bodyguard Services: Scope and Expectations | Paradigm Security Services",
+      "description": "Understand why protective job titles matter less than the actual scope of a personal security assignment.",
+      "h1": [
+        "Executive Protection and Bodyguard Services: Scope and Expectations"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 692,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/resident-threats-apartment-common-area-responsibility.html",
+      "title": "Resident Threats and Responsibility for Apartment Common Areas | Paradigm Security Services",
+      "description": "Why a threatening neighbor raises different issues from ordinary residential disagreement.",
+      "h1": [
+        "Resident Threats and Responsibility for Apartment Common Areas"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 686,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/shopping-center-parking-lot-assault-responsibility.html",
+      "title": "Shopping Center Responsibility for Parking Lot Assaults | Paradigm Security Services",
+      "description": "The difference between a criminal attack and a property negligence claim in California.",
+      "h1": [
+        "Shopping Center Responsibility for Parking Lot Assaults"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 693,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/police-private-security-roles-authority.html",
+      "title": "Police and Private Security: Different Roles and Legal Authority | Paradigm Security Services",
+      "description": "A clear comparison of public law enforcement and ordinary private security assignments in California.",
+      "h1": [
+        "Police and Private Security: Different Roles and Legal Authority"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 693,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/armed-security-police-response-times.html",
+      "title": "Armed Security vs. Police: Response Times Explained | Paradigm Security Services",
+      "description": "Understand the difference between a guard already present at a property and police responding to a call.",
+      "h1": [
+        "Armed Security vs. Police: Response Times Explained"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 708,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/construction-site-theft-project-delays.html",
+      "title": "Construction Site Theft Can Delay an Entire Project | Paradigm Security Services",
+      "description": "How missing equipment and materials can disrupt the sequence of work beyond the immediate loss.",
+      "h1": [
+        "Construction Site Theft Can Delay an Entire Project"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 684,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/school-security-guards-resource-officers-differences.html",
+      "title": "School Security Guards and School Resource Officers Have Different Roles | Paradigm Security Services",
+      "description": "The distinction between school security personnel, sworn resource officers, and school administration.",
+      "h1": [
+        "School Security Guards and School Resource Officers Have Different Roles"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 688,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/residential-security-alarm-monitoring-differences.html",
+      "title": "Private Residential Security and Alarm Monitoring Explained | Paradigm Security Services",
+      "description": "The difference between monitoring an alarm signal and assigning a security professional to a residence.",
+      "h1": [
+        "Private Residential Security and Alarm Monitoring Explained"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 693,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/employee-parking-safety-employer-responsibility.html",
+      "title": "Employee Parking Safety and Employer Responsibility After Dark | Paradigm Security Services",
+      "description": "How parking areas relate to workplace safety and why responsibility depends on control and circumstances.",
+      "h1": [
+        "Employee Parking Safety and Employer Responsibility After Dark"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 685,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/security-escort-and-licensed-cannabis-transport.html",
+      "title": "Security Escorts and Licensed Cannabis Transportation in California | Paradigm Security Services",
+      "description": "Why a security escort and authorization to transport commercial cannabis are separate roles under California rules.",
+      "h1": [
+        "Security Escorts and Licensed Cannabis Transportation in California"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 665,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/personal-threats-public-appearances.html",
+      "title": "Personal Threats at Public Appearances: Protection and Responsibility | Paradigm Security Services",
+      "description": "Understand the difference between ordinary event security and a specific concern involving a speaker or guest.",
+      "h1": [
+        "Personal Threats at Public Appearances: Protection and Responsibility"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 692,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/homeowner-responsibility-visitors-trespassers.html",
+      "title": "Homeowner Responsibility for Visitors and Trespassers in California | Paradigm Security Services",
+      "description": "Why permission to enter and responsibility for injury are related but separate legal questions.",
+      "h1": [
+        "Homeowner Responsibility for Visitors and Trespassers in California"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 690,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/hospital-security-authority-and-clinical-decisions.html",
+      "title": "Hospital Security Authority and the Limits of Clinical Decision Making | Paradigm Security Services",
+      "description": "The distinction between hospital security duties, patient rights and decisions that belong to qualified healthcare professionals.",
+      "h1": [
+        "Hospital Security Authority and the Limits of Clinical Decision Making"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 655,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/citizen-arrest-california-security.html",
+      "title": "Security Guard Arrest Authority in California | Paradigm Security Services",
+      "description": "The legal distinction between a private person\u2019s arrest and ordinary police arrest authority.",
+      "h1": [
+        "Security Guard Arrest Authority in California"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 687,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/film-production-access-and-public-boundaries.html",
+      "title": "Film Production Access and the Boundary Between Private and Public Space | Paradigm Security Services",
+      "description": "How location permission, filming permits and property boundaries affect production security and public access.",
+      "h1": [
+        "Film Production Access and the Boundary Between Private and Public Space"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 632,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/security-searches-consent-private-property.html",
+      "title": "Security Searches, Consent, and Private Property Rights in California | Paradigm Security Services",
+      "description": "Understand the distinction between voluntary inspection, entry conditions, and legally limited searches.",
+      "h1": [
+        "Security Searches, Consent, and Private Property Rights in California"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 695,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "services/unarmed-security.html",
+      "title": "Unarmed Security | Paradigm Security Services",
+      "description": "Uniformed unarmed security for offices, apartments, retail properties and events across Los Angeles and San Bernardino counties.",
+      "h1": [
+        "Unarmed Security"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/unarmedsecurity2.webp",
+          "exists": true,
+          "alt": "Unarmed Security"
+        },
+        {
+          "src": "../assets/article-business-entrance-assistance.webp",
+          "exists": true,
+          "alt": "Officer assisting a visitor at a business entrance"
+        },
+        {
+          "src": "../assets/article-unarmed-business-closing.webp",
+          "exists": true,
+          "alt": "Officer speaking with a business representative"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 775,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "services/asset-protection.html",
+      "title": "Asset Protection | Paradigm Security Services",
+      "description": "Asset protection services covering retail loss prevention, patrol, dispensary security and K9 detection inquiries in Southern California.",
+      "h1": [
+        "Asset Protection"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/article-equipment-inventory.webp",
+          "exists": true,
+          "alt": "Security officer and property representative near stored equipment"
+        },
+        {
+          "src": "../assets/article-warehouse-access-review.webp",
+          "exists": true,
+          "alt": "Security officer at a warehouse entrance"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 731,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "services/cannabis-and-cash-transport.html",
+      "title": "Cannabis and Cash Transport Security | Paradigm Security Services",
+      "description": "Discuss security support for cannabis and cash transfers in Los Angeles and San Bernardino counties, with responsibilities confirmed for each assignment.",
+      "h1": [
+        "Cannabis and Cash Transport Security"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/cashtransport.webp",
+          "exists": true,
+          "alt": "Cannabis and Cash Transport Security"
+        },
+        {
+          "src": "../assets/article-cash-transfer-documentation.webp",
+          "exists": true,
+          "alt": "Officer and business representative with transfer documentation"
+        },
+        {
+          "src": "../assets/article-dispensary-staff-coordination.webp",
+          "exists": true,
+          "alt": "Security staff speaking with a cannabis business representative"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 621,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "services/armed-security.html",
+      "title": "Armed Security | Paradigm Security Services",
+      "description": "Armed security for businesses, properties, events and individuals in Los Angeles County and San Bernardino County.",
+      "h1": [
+        "Armed Security"
+      ],
+      "images": [
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../assets/a_professional_flrd1wdcmc.png",
+          "exists": true,
+          "alt": "Armed Security"
+        },
+        {
+          "src": "../assets/article-armed-post-preparation.webp",
+          "exists": true,
+          "alt": "Security officer at a business reception area"
+        },
+        {
+          "src": "../assets/article-armed-shift-briefing.webp",
+          "exists": true,
+          "alt": "Security officers reviewing assignment documentation"
+        },
+        {
+          "src": "../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 835,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "services/asset-protection/k9-narcotic-detection.html",
+      "title": "K9 Narcotic Detection | Paradigm Security Services",
+      "description": "Discuss K9 narcotic detection support for commercial properties, warehouses and events in Los Angeles and San Bernardino counties.",
+      "h1": [
+        "K9 Narcotic Detection"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/k9hero.webp",
+          "exists": true,
+          "alt": "K9 Narcotic Detection"
+        },
+        {
+          "src": "../../assets/k91.webp",
+          "exists": true,
+          "alt": "Handler and detection dog"
+        },
+        {
+          "src": "../../assets/k92.webp",
+          "exists": true,
+          "alt": "K9 detection team in a property setting"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 706,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "services/asset-protection/cannabis-dispensaries.html",
+      "title": "Dispensary Asset Protection | Paradigm Security Services",
+      "description": "Dispensary asset protection addressing product, cash and retail security concerns for licensed cannabis businesses in Southern California.",
+      "h1": [
+        "Dispensary Asset Protection"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/cannibis.webp",
+          "exists": true,
+          "alt": "Dispensary Asset Protection"
+        },
+        {
+          "src": "../../assets/article-dispensary-inventory-handoff.webp",
+          "exists": true,
+          "alt": "Security officer with a dispensary representative near inventory"
+        },
+        {
+          "src": "../../assets/article-dispensary-restricted-access.webp",
+          "exists": true,
+          "alt": "Officer at a dispensary access point"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 710,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "services/asset-protection/loss-prevention.html",
+      "title": "Loss Prevention | Paradigm Security Services",
+      "description": "Uniformed and plainclothes retail loss prevention services in Los Angeles County and San Bernardino County.",
+      "h1": [
+        "Loss Prevention"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/lossproventionhero.webp",
+          "exists": true,
+          "alt": "Loss Prevention"
+        },
+        {
+          "src": "../../assets/article-retail-floor-observation.webp",
+          "exists": true,
+          "alt": "Officer observing a retail environment"
+        },
+        {
+          "src": "../../assets/article-retail-inventory-review.webp",
+          "exists": true,
+          "alt": "Retail representatives reviewing inventory records"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 725,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "services/asset-protection/vehicle-bike-patrol.html",
+      "title": "Vehicle and Bike Patrol | Paradigm Security Services",
+      "description": "Mobile vehicle and bike security patrol for large properties, business parks, shopping areas and campuses in Southern California.",
+      "h1": [
+        "Vehicle and Bike Patrol"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/paradigm-patrol-suv.png",
+          "exists": true,
+          "alt": "Vehicle and Bike Patrol"
+        },
+        {
+          "src": "../../assets/article-mobile-patrol-report.webp",
+          "exists": true,
+          "alt": "Patrol officer beside a security vehicle"
+        },
+        {
+          "src": "../../assets/article-shopping-center-parking-patrol.webp",
+          "exists": true,
+          "alt": "Officer in a shopping center parking area"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 700,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/topics/hospitals-medical.html",
+      "title": "Hospital & Medical Facility Security Articles | Paradigm Security Services",
+      "description": "Read substantial articles covering hospital & medical facility security.",
+      "h1": [
+        "Hospital & Medical Facility Security Articles"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 86,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/topics/homes-estates.html",
+      "title": "Private Home & Estate Security Articles | Paradigm Security Services",
+      "description": "Read substantial articles covering private home & estate security.",
+      "h1": [
+        "Private Home & Estate Security Articles"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 85,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/topics/schools-campus.html",
+      "title": "School & Campus Security Articles | Paradigm Security Services",
+      "description": "Read substantial articles covering school & campus security.",
+      "h1": [
+        "School & Campus Security Articles"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 86,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/topics/events-production.html",
+      "title": "Event & Film Production Security Articles | Paradigm Security Services",
+      "description": "Read substantial articles covering event & film production security.",
+      "h1": [
+        "Event & Film Production Security Articles"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 88,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/topics/banking-transport-cannabis.html",
+      "title": "Bank, Cash Transport & Cannabis Security Articles | Paradigm Security Services",
+      "description": "Read substantial articles covering bank, cash transport & cannabis security.",
+      "h1": [
+        "Bank, Cash Transport & Cannabis Security Articles"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 98,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/topics/workplace-office.html",
+      "title": "Workplace & Office Security Articles | Paradigm Security Services",
+      "description": "Read substantial articles covering workplace & office security.",
+      "h1": [
+        "Workplace & Office Security Articles"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 84,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/topics/police-private-security.html",
+      "title": "Police vs. Private Security Articles | Paradigm Security Services",
+      "description": "Read substantial articles covering police vs. private security.",
+      "h1": [
+        "Police vs. Private Security Articles"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 107,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/topics/retail-shopping-center.html",
+      "title": "Retail & Shopping Center Security Articles | Paradigm Security Services",
+      "description": "Read substantial articles covering retail & shopping center security.",
+      "h1": [
+        "Retail & Shopping Center Security Articles"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 85,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/topics/personal-protection.html",
+      "title": "Personal Protection, Stalking & Threats Articles | Paradigm Security Services",
+      "description": "Read substantial articles covering personal protection, stalking & threats.",
+      "h1": [
+        "Personal Protection, Stalking & Threats Articles"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 96,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/topics/apartments-residential.html",
+      "title": "Apartment & Residential Community Security Articles | Paradigm Security Services",
+      "description": "Read substantial articles covering apartment & residential community security.",
+      "h1": [
+        "Apartment & Residential Community Security Articles"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 85,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/topics/construction-warehouse.html",
+      "title": "Construction Site & Warehouse Security Articles | Paradigm Security Services",
+      "description": "Read substantial articles covering construction site & warehouse security.",
+      "h1": [
+        "Construction Site & Warehouse Security Articles"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 87,
+      "has_chat": true,
+      "qa_count": 0
+    },
+    {
+      "path": "articles/topics/security-authority-rights.html",
+      "title": "Security Guard Authority & Your Rights Articles | Paradigm Security Services",
+      "description": "Read substantial articles covering security guard authority & your rights.",
+      "h1": [
+        "Security Guard Authority & Your Rights Articles"
+      ],
+      "images": [
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services"
+        },
+        {
+          "src": "../../assets/paradigmsecurity-logoblack.png",
+          "exists": true,
+          "alt": "Paradigm Security Services logo"
+        }
+      ],
+      "text_words": 96,
+      "has_chat": true,
+      "qa_count": 0
+    }
+  ],
+  "missing_images": [],
+  "safety_article_files": [
+    "articles/stalking-private-protection-law-enforcement.html",
+    "articles/trespass-property-removal-boundaries.html",
+    "articles/event-venue-and-organizer-responsibility.html",
+    "articles/california-cannabis-security-and-armed-guard-assumptions.html",
+    "articles/former-police-officers-private-security.html",
+    "articles/retail-theft-workers-customer-experience.html",
+    "articles/visitor-aggression-and-healthcare-worker-safety.html",
+    "articles/construction-equipment-theft-responsibility.html",
+    "articles/school-visitor-disputes-campus-access-rights.html",
+    "articles/security-police-incident-coordination.html",
+    "articles/former-employee-threats-workplace-security.html",
+    "articles/landlord-responsibility-repeated-apartment-breakins.html",
+    "articles/bank-security-guards-and-police-authority.html",
+    "articles/executive-protection-bodyguard-difference.html",
+    "articles/resident-threats-apartment-common-area-responsibility.html",
+    "articles/shopping-center-parking-lot-assault-responsibility.html",
+    "articles/police-private-security-roles-authority.html",
+    "articles/armed-security-police-response-times.html",
+    "articles/construction-site-theft-project-delays.html",
+    "articles/school-security-guards-resource-officers-differences.html",
+    "articles/residential-security-alarm-monitoring-differences.html",
+    "articles/employee-parking-safety-employer-responsibility.html",
+    "articles/security-escort-and-licensed-cannabis-transport.html",
+    "articles/personal-threats-public-appearances.html",
+    "articles/homeowner-responsibility-visitors-trespassers.html",
+    "articles/hospital-security-authority-and-clinical-decisions.html",
+    "articles/citizen-arrest-california-security.html",
+    "articles/film-production-access-and-public-boundaries.html",
+    "articles/security-searches-consent-private-property.html",
+    "articles/topics/hospitals-medical.html",
+    "articles/topics/homes-estates.html",
+    "articles/topics/schools-campus.html",
+    "articles/topics/events-production.html",
+    "articles/topics/banking-transport-cannabis.html",
+    "articles/topics/workplace-office.html",
+    "articles/topics/police-private-security.html",
+    "articles/topics/retail-shopping-center.html",
+    "articles/topics/personal-protection.html",
+    "articles/topics/apartments-residential.html",
+    "articles/topics/construction-warehouse.html",
+    "articles/topics/security-authority-rights.html"
+  ],
+  "requested_page_assignments": {
+    "Armed Security": "services/armed-security.html",
+    "Unarmed Security": "services/unarmed-security.html",
+    "Asset Protection": "services/asset-protection.html",
+    "Cannabis Dispensaries": "services/asset-protection/cannabis-dispensaries.html",
+    "Loss Prevention": "services/asset-protection/loss-prevention.html",
+    "K9 Narcotic Detection": "services/asset-protection/k9-narcotic-detection.html",
+    "Vehicle & Bike Patrol": "services/asset-protection/vehicle-bike-patrol.html",
+    "Apartments": "protection/apartments.html",
+    "Banks": "protection/banks.html",
+    "Construction Sites": "protection/construction-sites.html",
+    "Events": "protection/events.html",
+    "Film & Production Sites": "protection/film-production-sites.html",
+    "Hospitals & Medical Facilities": "protection/hospitals-medical-facilities.html",
+    "Individuals & Executives": "protection/individuals-executives.html",
+    "Malls & Shopping Centers": "protection/malls-shopping-centers.html",
+    "Office Buildings": "protection/office-buildings.html",
+    "Private Homes & Estates": "protection/private-homes-estates.html",
+    "Schools": "protection/schools.html"
+  },
+  "generated_image_note": "New conceptual mockup generated separately; it is not an actual website photo and was not inserted into service imagery."
+}

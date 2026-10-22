@@ -1,0 +1,22 @@
+﻿{
+    "pages":  89,
+    "timestamp":  "2026-10-21T19:00:09.7475079-07:00",
+    "issues":  [
+
+               ],
+    "uniqueImages":  92,
+    "safetyTopicCounts":  {
+                              "articles\\topics\\security-authority-rights.html":  6,
+                              "articles\\topics\\homes-estates.html":  4,
+                              "articles\\topics\\construction-warehouse.html":  5,
+                              "articles\\topics\\schools-campus.html":  4,
+                              "articles\\topics\\personal-protection.html":  5,
+                              "articles\\topics\\events-production.html":  7,
+                              "articles\\topics\\apartments-residential.html":  4,
+                              "articles\\topics\\retail-shopping-center.html":  6,
+                              "articles\\topics\\banking-transport-cannabis.html":  7,
+                              "articles\\topics\\hospitals-medical.html":  4,
+                              "articles\\topics\\workplace-office.html":  4,
+                              "articles\\topics\\police-private-security.html":  10
+                          }
+}

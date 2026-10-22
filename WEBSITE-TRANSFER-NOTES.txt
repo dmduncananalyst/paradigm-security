@@ -1,0 +1,9 @@
+COMPLETE PARADIGM SQUARESPACE REFERENCE
+Open index.html. Keep this folder intact. All 29 original Safety/AEO articles remain in the site. New page-specific FAQs and inquiry modals were added to the existing site.
+
+IMPORTANT HUBSPOT SETUP
+The inquiry interface is built but DOES NOT deliver leads until you configure paradigm-lead-config.js with a real HubSpot portalId and published formGuid. The matching HubSpot form must contain the firstname, lastname, email, phone, city, company, message properties or equivalent mappings. Test with a real submission before publishing.
+
+For Squarespace, insert the modal CSS, JS and markup through allowed custom-code areas on an eligible plan, adapting relative file paths to hosted assets. A static zip cannot install itself on Squarespace.
+
+All original photo assets are retained. Check photo usage rights and operational claims before going live.

@@ -1,0 +1,18 @@
+[
+    {
+        "state":  "hover",
+        "color":  "rgb(255, 255, 255)"
+    },
+    {
+        "state":  "active",
+        "color":  "rgb(255, 255, 255)"
+    },
+    {
+        "state":  "focus",
+        "color":  "rgb(255, 255, 255)"
+    },
+    {
+        "state":  "visited",
+        "color":  "rgb(255, 255, 255)"
+    }
+]

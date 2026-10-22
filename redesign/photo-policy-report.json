@@ -1,0 +1,351 @@
+﻿{
+    "pages":  [
+                  {
+                      "page":  "404.html",
+                      "primary":  null
+                  },
+                  {
+                      "page":  "about.html",
+                      "primary":  null
+                  },
+                  {
+                      "page":  "blog.html",
+                      "primary":  null
+                  },
+                  {
+                      "page":  "contact.html",
+                      "primary":  "assets/approved-generated/page-contact.jpg"
+                  },
+                  {
+                      "page":  "employment.html",
+                      "primary":  "assets/approved-generated/page-employment.jpg"
+                  },
+                  {
+                      "page":  "index.html",
+                      "primary":  null
+                  },
+                  {
+                      "page":  "los-angeles-county-security.html",
+                      "primary":  null
+                  },
+                  {
+                      "page":  "pictures-to-use.html",
+                      "primary":  "assets/approved-generated/page-pictures-to-use.jpg"
+                  },
+                  {
+                      "page":  "protection.html",
+                      "primary":  null
+                  },
+                  {
+                      "page":  "safety.html",
+                      "primary":  null
+                  },
+                  {
+                      "page":  "san-bernardino-county-security.html",
+                      "primary":  null
+                  },
+                  {
+                      "page":  "security.html",
+                      "primary":  "assets/paradigm_all_photos_ONE_ZIP (2)/generated_photos/upscale_dispensary_check_in.jpg"
+                  },
+                  {
+                      "page":  "services.html",
+                      "primary":  null
+                  },
+                  {
+                      "page":  "articles/armed-security-police-response-times.html",
+                      "primary":  "assets/approved-generated/page-articles-armed-security-police-response-times.jpg"
+                  },
+                  {
+                      "page":  "articles/bank-security-guards-and-police-authority.html",
+                      "primary":  "assets/approved-generated/page-articles-bank-security-guards-and-police-authority-v2.jpg"
+                  },
+                  {
+                      "page":  "articles/california-cannabis-security-and-armed-guard-assumptions.html",
+                      "primary":  "assets/approved-generated/page-articles-california-cannabis-security-and-armed-guard-assumptions.jpg"
+                  },
+                  {
+                      "page":  "articles/citizen-arrest-california-security.html",
+                      "primary":  "assets/approved-generated/page-articles-citizen-arrest-california-security.jpg"
+                  },
+                  {
+                      "page":  "articles/construction-equipment-theft-responsibility.html",
+                      "primary":  "assets/paradigm_all_photos_ONE_ZIP (2)/generated_photos/a_realistic_high_resolution_cinematic_constructi.jpg"
+                  },
+                  {
+                      "page":  "articles/construction-site-theft-project-delays.html",
+                      "primary":  "assets/approved-generated/page-articles-construction-site-theft-project-delays.jpg"
+                  },
+                  {
+                      "page":  "articles/employee-parking-safety-employer-responsibility.html",
+                      "primary":  "assets/approved-generated/page-articles-employee-parking-safety-employer-responsibility.jpg"
+                  },
+                  {
+                      "page":  "articles/event-venue-and-organizer-responsibility.html",
+                      "primary":  "assets/approved-generated/page-articles-event-venue-and-organizer-responsibility.jpg"
+                  },
+                  {
+                      "page":  "articles/executive-protection-bodyguard-difference.html",
+                      "primary":  "assets/approved-generated/page-articles-executive-protection-bodyguard-difference.jpg"
+                  },
+                  {
+                      "page":  "articles/film-production-access-and-public-boundaries.html",
+                      "primary":  "assets/approved-generated/page-articles-film-production-access-and-public-boundaries.jpg"
+                  },
+                  {
+                      "page":  "articles/former-employee-threats-workplace-security.html",
+                      "primary":  "assets/approved-generated/page-articles-former-employee-threats-workplace-security.jpg"
+                  },
+                  {
+                      "page":  "articles/former-police-officers-private-security.html",
+                      "primary":  "assets/approved-generated/page-articles-former-police-officers-private-security.jpg"
+                  },
+                  {
+                      "page":  "articles/homeowner-responsibility-visitors-trespassers.html",
+                      "primary":  "assets/approved-generated/page-articles-homeowner-responsibility-visitors-trespassers.jpg"
+                  },
+                  {
+                      "page":  "articles/hospital-security-authority-and-clinical-decisions.html",
+                      "primary":  "assets/approved-generated/page-articles-hospital-security-authority-and-clinical-decisions.jpg"
+                  },
+                  {
+                      "page":  "articles/landlord-responsibility-repeated-apartment-breakins.html",
+                      "primary":  "assets/approved-generated/page-articles-landlord-responsibility-repeated-apartment-breakins.jpg"
+                  },
+                  {
+                      "page":  "articles/personal-threats-public-appearances.html",
+                      "primary":  "assets/paradigm_all_photos_ONE_ZIP (2)/generated_photos/suited_security_overseeing_corporate_reception.jpg"
+                  },
+                  {
+                      "page":  "articles/police-private-security-roles-authority.html",
+                      "primary":  "assets/paradigm_all_photos_ONE_ZIP (2)/generated_photos/private_security_team_meets_campus_client.jpg"
+                  },
+                  {
+                      "page":  "articles/resident-threats-apartment-common-area-responsibility.html",
+                      "primary":  "assets/approved-generated/page-articles-resident-threats-apartment-common-area-responsibility.jpg"
+                  },
+                  {
+                      "page":  "articles/residential-security-alarm-monitoring-differences.html",
+                      "primary":  "assets/approved-generated/page-articles-residential-security-alarm-monitoring-differences.jpg"
+                  },
+                  {
+                      "page":  "articles/retail-theft-workers-customer-experience.html",
+                      "primary":  "assets/article-unarmed-business-closing.webp"
+                  },
+                  {
+                      "page":  "articles/school-security-guards-resource-officers-differences.html",
+                      "primary":  "assets/approved-generated/page-articles-school-security-guards-resource-officers-differences.jpg"
+                  },
+                  {
+                      "page":  "articles/school-visitor-disputes-campus-access-rights.html",
+                      "primary":  "assets/approved-generated/page-articles-school-visitor-disputes-campus-access-rights.jpg"
+                  },
+                  {
+                      "page":  "articles/security-escort-and-licensed-cannabis-transport.html",
+                      "primary":  "assets/paradigm_all_photos_ONE_ZIP (2)/generated_photos/wide_realistic_photo_of_a_modern_retail_cannabis.jpg"
+                  },
+                  {
+                      "page":  "articles/security-police-incident-coordination.html",
+                      "primary":  "assets/paradigm_all_photos_ONE_ZIP (2)/generated_photos/a_realistic_well_lit_indoor_dispensary_store_inte.jpg"
+                  },
+                  {
+                      "page":  "articles/security-searches-consent-private-property.html",
+                      "primary":  "assets/approved-generated/page-articles-security-searches-consent-private-property.jpg"
+                  },
+                  {
+                      "page":  "articles/shopping-center-parking-lot-assault-responsibility.html",
+                      "primary":  "assets/approved-generated/page-articles-shopping-center-parking-lot-assault-responsibility.jpg"
+                  },
+                  {
+                      "page":  "articles/stalking-private-protection-law-enforcement.html",
+                      "primary":  "assets/approved-generated/page-articles-stalking-private-protection-law-enforcement.jpg"
+                  },
+                  {
+                      "page":  "articles/trespass-property-removal-boundaries.html",
+                      "primary":  "assets/approved-generated/page-articles-trespass-property-removal-boundaries.jpg"
+                  },
+                  {
+                      "page":  "articles/visitor-aggression-and-healthcare-worker-safety.html",
+                      "primary":  "assets/approved-generated/page-articles-visitor-aggression-and-healthcare-worker-safety-v2.jpg"
+                  },
+                  {
+                      "page":  "articles/topics/apartments-residential.html",
+                      "primary":  "assets/approved-generated/topic-apartments-residential-v3.jpg"
+                  },
+                  {
+                      "page":  "articles/topics/banking-transport-cannabis.html",
+                      "primary":  "assets/approved-generated/topic-banking-transport-cannabis-v3.jpg"
+                  },
+                  {
+                      "page":  "articles/topics/construction-warehouse.html",
+                      "primary":  "assets/approved-generated/topic-construction-warehouse-v3.jpg"
+                  },
+                  {
+                      "page":  "articles/topics/events-production.html",
+                      "primary":  "assets/approved-generated/topic-events-production-v3.jpg"
+                  },
+                  {
+                      "page":  "articles/topics/homes-estates.html",
+                      "primary":  "assets/approved-generated/topic-homes-estates-v3.jpg"
+                  },
+                  {
+                      "page":  "articles/topics/hospitals-medical.html",
+                      "primary":  "assets/approved-generated/topic-hospitals-medical-v3.jpg"
+                  },
+                  {
+                      "page":  "articles/topics/personal-protection.html",
+                      "primary":  "assets/approved-generated/topic-personal-protection-v3.jpg"
+                  },
+                  {
+                      "page":  "articles/topics/police-private-security.html",
+                      "primary":  "assets/approved-generated/topic-police-private-security-v3.jpg"
+                  },
+                  {
+                      "page":  "articles/topics/retail-shopping-center.html",
+                      "primary":  "assets/approved-generated/topic-retail-shopping-center-v3.jpg"
+                  },
+                  {
+                      "page":  "articles/topics/schools-campus.html",
+                      "primary":  "assets/approved-generated/topic-schools-campus-v3.jpg"
+                  },
+                  {
+                      "page":  "articles/topics/security-authority-rights.html",
+                      "primary":  "assets/approved-generated/topic-security-authority-rights-v3.jpg"
+                  },
+                  {
+                      "page":  "articles/topics/workplace-office.html",
+                      "primary":  "assets/approved-generated/topic-workplace-office-v3.jpg"
+                  },
+                  {
+                      "page":  "locations/baldwin-hills.html",
+                      "primary":  "assets/approved-generated/city-baldwin-hills-v3.jpg"
+                  },
+                  {
+                      "page":  "locations/beverly-hills.html",
+                      "primary":  "assets/approved-generated/city-beverly-hills-v3.jpg"
+                  },
+                  {
+                      "page":  "locations/big-bear-lake.html",
+                      "primary":  "assets/approved-generated/city-big-bear-lake-v3.jpg"
+                  },
+                  {
+                      "page":  "locations/calabasas.html",
+                      "primary":  "assets/approved-generated/city-calabasas-v3.jpg"
+                  },
+                  {
+                      "page":  "locations/chino-hills.html",
+                      "primary":  "assets/approved-generated/city-chino-hills-v3.jpg"
+                  },
+                  {
+                      "page":  "locations/culver-city.html",
+                      "primary":  "assets/approved-generated/city-culver-city-v3.jpg"
+                  },
+                  {
+                      "page":  "locations/lake-arrowhead.html",
+                      "primary":  "assets/approved-generated/city-lake-arrowhead-v3.jpg"
+                  },
+                  {
+                      "page":  "locations/malibu.html",
+                      "primary":  "assets/approved-generated/city-malibu-v3.jpg"
+                  },
+                  {
+                      "page":  "locations/manhattan-beach.html",
+                      "primary":  "assets/approved-generated/city-manhattan-beach-v3.jpg"
+                  },
+                  {
+                      "page":  "locations/rancho-cucamonga.html",
+                      "primary":  "assets/approved-generated/city-rancho-cucamonga-v3.jpg"
+                  },
+                  {
+                      "page":  "locations/san-marino.html",
+                      "primary":  "assets/approved-generated/city-san-marino-v3.jpg"
+                  },
+                  {
+                      "page":  "locations/upland.html",
+                      "primary":  "assets/approved-generated/city-upland-v3.jpg"
+                  },
+                  {
+                      "page":  "protection/apartments.html",
+                      "primary":  "assets/approved-generated/page-protection-apartments.jpg"
+                  },
+                  {
+                      "page":  "protection/banks.html",
+                      "primary":  "assets/approved-generated/page-protection-banks-v2.jpg"
+                  },
+                  {
+                      "page":  "protection/cannabis-dispensaries.html",
+                      "primary":  "assets/approved-generated/page-protection-cannabis-dispensaries.jpg"
+                  },
+                  {
+                      "page":  "protection/construction-sites.html",
+                      "primary":  "assets/approved-generated/page-protection-construction-sites.jpg"
+                  },
+                  {
+                      "page":  "protection/events.html",
+                      "primary":  "assets/approved-generated/page-protection-events.jpg"
+                  },
+                  {
+                      "page":  "protection/film-production-sites.html",
+                      "primary":  "assets/approved-generated/page-protection-film-production-sites.jpg"
+                  },
+                  {
+                      "page":  "protection/hospitals-medical-facilities.html",
+                      "primary":  "assets/approved-generated/page-protection-hospitals-medical-facilities.jpg"
+                  },
+                  {
+                      "page":  "protection/individuals-executives.html",
+                      "primary":  "assets/paradigm_all_photos_ONE_ZIP (2)/generated_photos/executive_arrival_with_discreet_close_protection.jpg"
+                  },
+                  {
+                      "page":  "protection/malls-shopping-centers.html",
+                      "primary":  "assets/paradigm_all_photos_ONE_ZIP (2)/generated_photos/a_crisp_realistic_high_resolution_interior_secur.jpg"
+                  },
+                  {
+                      "page":  "protection/office-buildings.html",
+                      "primary":  "assets/approved-generated/protection-property-watch-v3.jpg"
+                  },
+                  {
+                      "page":  "protection/private-homes-estates.html",
+                      "primary":  "assets/approved-generated/page-protection-private-homes-estates.jpg"
+                  },
+                  {
+                      "page":  "protection/schools.html",
+                      "primary":  "assets/approved-generated/page-protection-schools.jpg"
+                  },
+                  {
+                      "page":  "services/armed-security.html",
+                      "primary":  "assets/approved-generated/armed-security.jpg"
+                  },
+                  {
+                      "page":  "services/asset-protection.html",
+                      "primary":  "assets/approved-generated/asset-inventory-inspection-v3.jpg"
+                  },
+                  {
+                      "page":  "services/cannabis-and-cash-transport.html",
+                      "primary":  "assets/approved-generated/cash-transport-loading-v3.jpg"
+                  },
+                  {
+                      "page":  "services/unarmed-security.html",
+                      "primary":  "assets/approved-generated/page-services-unarmed-security.jpg"
+                  },
+                  {
+                      "page":  "services/asset-protection/cannabis-dispensaries.html",
+                      "primary":  "assets/approved-generated/page-services-asset-protection-cannabis-dispensaries.jpg"
+                  },
+                  {
+                      "page":  "services/asset-protection/k9-narcotic-detection.html",
+                      "primary":  "assets/approved-generated/k9-detection.jpg"
+                  },
+                  {
+                      "page":  "services/asset-protection/loss-prevention.html",
+                      "primary":  "assets/approved-generated/page-services-asset-protection-loss-prevention-v2.jpg"
+                  },
+                  {
+                      "page":  "services/asset-protection/vehicle-bike-patrol.html",
+                      "primary":  "assets/approved-generated/bike-patrol.jpg"
+                  }
+              ],
+    "policy":  "Visible SECURITY on uniform or guard wearing suit; About photograph exempt. No unreviewed photos, no dogs outside K9; no filler galleries.",
+    "approved":  194,
+    "used":  81
+}

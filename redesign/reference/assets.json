@@ -1,0 +1,102 @@
+﻿[
+    {
+        "url":  "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/09015c6a-5024-4c7d-b43e-6a52de07fb93_1169/website.components.button.styles.css",
+        "path":  "assets/reference/asset-1.css"
+    },
+    {
+        "url":  "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/0f75aa32-8dfe-49cd-b028-48baed6039bb_1171/website.components.form.styles.css",
+        "path":  "assets/reference/asset-2.css"
+    },
+    {
+        "url":  "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/efe9c818-3ed2-4e67-8c39-f956d8b224ce_999/website.components.html.styles.css",
+        "path":  "assets/reference/asset-3.css"
+    },
+    {
+        "url":  "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/1f18942e-585b-4664-a90a-648ea77813ce_986/website.components.imageFluid.styles.css",
+        "path":  "assets/reference/asset-4.css"
+    },
+    {
+        "url":  "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.scrolling/aabc824f-ee79-4538-8e67-abab3e8f009a_771/website.components.scrolling.styles.css",
+        "path":  "assets/reference/asset-5.css"
+    },
+    {
+        "url":  "https://images.squarespace-cdn.com/content/v1/63dc6c1f0f5db122ab9e46bb/0d31e70b-9853-4305-bdd7-bd535e3de346/Artboard+3+copy+2.png\"",
+        "path":  "assets/reference/asset-6.img"
+    },
+    {
+        "url":  "https://images.squarespace-cdn.com/content/v1/63dc6c1f0f5db122ab9e46bb/1680631925024-0RU67PU01ATBT62O83NS/unsplash-image-ou3AXtwNnaQ.jpg",
+        "path":  "assets/reference/asset-7.jpg"
+    },
+    {
+        "url":  "https://images.squarespace-cdn.com/content/v1/63dc6c1f0f5db122ab9e46bb/1764479645841-WGD972FGWD8ROG0C2JJB/unsplash-image-2KIDkMzmO-k.jpg",
+        "path":  "assets/reference/asset-8.jpg"
+    },
+    {
+        "url":  "https://images.squarespace-cdn.com/content/v1/63dc6c1f0f5db122ab9e46bb/2677abe0-bbc2-49c9-83e1-988ac849cbbc/favicon.ico",
+        "path":  "assets/reference/asset-9.img"
+    },
+    {
+        "url":  "https://images.squarespace-cdn.com/content/v1/63dc6c1f0f5db122ab9e46bb/359ba0f9-ee5f-4c47-89a9-dfd1af6f9cf8/Screenshot+%283592%29.png",
+        "path":  "assets/reference/asset-10.png"
+    },
+    {
+        "url":  "https://images.squarespace-cdn.com/content/v1/63dc6c1f0f5db122ab9e46bb/4fc9017c-5657-4db8-881a-e77881824b8e/paradigmsecruityservices-blue-badge.png",
+        "path":  "assets/reference/asset-11.png"
+    },
+    {
+        "url":  "https://images.squarespace-cdn.com/content/v1/63dc6c1f0f5db122ab9e46bb/944914c4-6f2b-4a7b-92f0-344f354cac0c/security-team+%281%29.png",
+        "path":  "assets/reference/asset-12.png"
+    },
+    {
+        "url":  "https://images.squarespace-cdn.com/content/v1/63dc6c1f0f5db122ab9e46bb/a0571ad2-61c0-47cf-a413-b7dd50eb3541/security-guard.jpg",
+        "path":  "assets/reference/asset-13.jpg"
+    },
+    {
+        "url":  "https://images.squarespace-cdn.com/content/v1/63dc6c1f0f5db122ab9e46bb/b0c2868c-79e0-4bc5-b417-c2d621d946bd/IMG_4259.jpg",
+        "path":  "assets/reference/asset-14.jpg"
+    },
+    {
+        "url":  "https://images.squarespace-cdn.com/content/v1/63dc6c1f0f5db122ab9e46bb/bcec8c30-fa89-48e8-925e-7954676dd597/hiring-employee.png",
+        "path":  "assets/reference/asset-15.png"
+    },
+    {
+        "url":  "https://images.squarespace-cdn.com/content/v1/63dc6c1f0f5db122ab9e46bb/d3d3e87d-eabc-4847-a593-6fe5a8273102/IMG_4307.jpg",
+        "path":  "assets/reference/asset-16.jpg"
+    },
+    {
+        "url":  "https://images.squarespace-cdn.com/content/v1/63dc6c1f0f5db122ab9e46bb/d3d3e87d-eabc-4847-a593-6fe5a8273102/IMG_4307.jpg\"",
+        "path":  "assets/reference/asset-17.img"
+    },
+    {
+        "url":  "https://images.squarespace-cdn.com/content/v1/63dc6c1f0f5db122ab9e46bb/e3e7d63e-593a-4799-a838-43c14ebb4bd9/paradigmsecurity-logoblack.png",
+        "path":  "assets/reference/asset-18.png"
+    },
+    {
+        "url":  "https://static1.squarespace.com/static/custom-css/63dc6c1f0f5db122ab9e46bb/63dc6c1f0f5db122ab9e46d5/4/custom.css",
+        "path":  "assets/reference/asset-19.css"
+    },
+    {
+        "url":  "https://static1.squarespace.com/static/versioned-site-css/63dc6c1f0f5db122ab9e46bb/112/5c5a519771c10ba3470d8101/63dc6c1f0f5db122ab9e46d5/1841/site.css?nocustom=true",
+        "path":  "assets/reference/asset-20.css"
+    },
+    {
+        "url":  "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1792079378326-3P84T29X62IH7QZWGRSR/static.css",
+        "path":  "assets/reference/asset-21.css"
+    },
+    {
+        "url":  "https://assets.squarespace.com/universal/scripts-compressed/../styles-compressed/35ebb88013744865-min.en-US.css",
+        "path":  "assets/reference/runtime-1.css"
+    },
+    {
+        "url":  "https://assets.squarespace.com/universal/scripts-compressed/../styles-compressed/8308d1793f387442-min.en-US.css",
+        "path":  "assets/reference/runtime-2.css"
+    },
+    {
+        "url":  "https://assets.squarespace.com/universal/scripts-compressed/../styles-compressed/9eb34269c7fffaee-min.en-US.css",
+        "path":  "assets/reference/runtime-3.css"
+    },
+    {
+        "url":  "https://assets.squarespace.com/universal/scripts-compressed/../styles-compressed/e237edef00ae5990-min.en-US.css",
+        "path":  "assets/reference/runtime-4.css"
+    }
+]

@@ -1,0 +1,63 @@
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 8 Tf 9.6 TL ET
+.4 .443137 .478431 rg
+BT 1 0 0 1 45 28 Tm (Paradigm Security Services | October 21, 2026) Tj T* ET
+BT 1 0 0 1 562.552 28 Tm (6) Tj T* ET
+q
+1 0 0 1 54 722 cm
+q
+BT 1 0 0 1 0 6 Tm 16 TL /F1 10 Tf 0 0 0 rg (reorganizing work. Those losses are not always visible in a police report or an equipment valuation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 691 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Security and construction safety are related but different) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 540 cm
+q
+BT 1 0 0 1 0 134 Tm 16 TL /F1 10 Tf 0 0 0 rg (Construction is a high hazard industry, as the Occupational Safety and Health Administration explains in its) Tj T* (guidance. Employers have responsibilities involving worker safety and hazard management. Theft prevention is a) Tj T* (separate concern, even though a well managed property should consider both. A private security officer does not) Tj T* (replace a contractor's safety program, qualified supervisors, or compliance obligations.) Tj  T*  T* (Professional security can provide an authorized presence and a means of reporting concerns during a planned) Tj T* (absence. The right arrangement depends on the site and its actual needs. Public articles need not reveal specific) Tj T* (patrol schedules, access vulnerabilities, or detailed operational tactics to explain the business value of) Tj T* (professional oversight.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 509 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (The value of returning ready to work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 374 cm
+q
+BT 1 0 0 1 0 118 Tm 16 TL /F1 10 Tf 0 0 0 rg (The best holiday shutdown is uneventful. Workers return, equipment is accounted for, and the project resumes) Tj T* (without a surprise that consumes the first week back. No security provider can guarantee that a loss will never) Tj T* (happen. Still, the ability to manage an inactive site responsibly matters to contractors, owners, and the people) Tj T* (whose schedules depend on the work.) Tj  T*  T* (Construction is built on commitments. The true cost of theft is often measured not only in what disappears, but in) Tj T* (the momentum and trust that must be restored afterward. Protecting that continuity is the reason holiday security) Tj T* (deserves serious consideration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 343 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL (Sources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 310 cm
+q
+BT 1 0 0 1 0 17.5 Tm 13 TL /F1 8.5 Tf 0 0 0 rg (National Equipment Register, Thanksgiving Equipment Theft Advisory 2025:) Tj T* .078431 .356863 .521569 rg (https://www.ner.net/thanksgiving-heavy-equipment-theft-trends-infographic-and-security-tips-and-best-practices-2025/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 290 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F1 8.5 Tf 0 0 0 rg (OSHA, Construction Industry: ) Tj .078431 .356863 .521569 rg (https://www.osha.gov/construction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 270 cm
+q
+BT 1 0 0 1 0 4.5 Tm 13 TL /F1 8.5 Tf 0 0 0 rg (OSHA, Hazard Prevention and Control: ) Tj .078431 .356863 .521569 rg (https://www.osha.gov/safety-management/hazard-prevention) Tj T* ET
+Q
+Q
+ 

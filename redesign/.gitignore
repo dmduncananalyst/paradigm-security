@@ -1,0 +1,15 @@
+originals/
+*-profile/
+chrome-profile/
+browser-qa/
+qa-*/
+brand-qa-*/
+directory-qa-*/
+final2-*/
+final3-*/
+preview-*/
+latest-shot/
+viewport-browser/
+reference-browser/
+local-reference-browser/
+tools/

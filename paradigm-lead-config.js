@@ -1,0 +1,1 @@
+window.PARADIGM_LEAD_CONFIG={portalId:"247103073",formGuid:"8b3622a2-cd01-49d0-9d1f-f05c767ab1fa",region:"na2"};
