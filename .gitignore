@@ -34,3 +34,39 @@ service-account*.json
 
 # Security incident documents are private, not website assets.
 paradigm-security-exposed-api-key-note.pdf
+
+# Local browser testing, authentication snapshots, and disposable build output.
+/.local-test-output/
+/.test-build/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.auth/
+/.auth/
+**/chrome-profile*/
+**/chromium-profile*/
+**/puppeteer-profile*/
+**/__pycache__/
+*.pyc
+*.pyo
+/debug.log
+/npm-debug.log*
+/credentials.json
+/service-account*.json
+
+# Confirmed disposable captures and logs; keep reports and source assets tracked.
+/redesign/browser-desktop-errors.txt
+/redesign/browser-mobile-errors.txt
+/redesign/browser-tablet-errors.txt
+/redesign/desktop-current.png
+/redesign/desktop-revised.png
+/redesign/desktop.png
+/redesign/ide-preview-current.png
+/redesign/laptop-current.png
+/redesign/mobile-current.png
+/redesign/mobile-revised.png
+/redesign/screenshot-current-errors.txt
+/redesign/screenshot-desktop-errors.txt
+/redesign/screenshot-mobile-errors.txt
+/redesign/short-window-current.png
+/redesign/tablet-current.png
