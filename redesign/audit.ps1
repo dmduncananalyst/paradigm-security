@@ -1,4 +1,4 @@
-﻿$ErrorActionPreference='Stop'
+$ErrorActionPreference='Stop'
 $root=Split-Path $PSScriptRoot
 $issues=@();$titles=@{};$counts=@{};$imagePaths=@{}
 $pages=@(Get-ChildItem $root -Recurse -Filter *.html | Where-Object FullName -NotMatch '\\redesign\\')
@@ -6,7 +6,7 @@ foreach($f in $pages){$s=Get-Content $f.FullName -Raw -Encoding UTF8;$rel=$f.Ful
  foreach($m in [regex]::Matches($s,'(?:href|src)=["'']([^"'']+)["'']')){$v=[Net.WebUtility]::HtmlDecode($m.Groups[1].Value);if($v -match '^(https?:|mailto:|tel:|data:|#|javascript:)'){continue};$v=($v -split '[?#]')[0];$target=[IO.Path]::GetFullPath((Join-Path $f.DirectoryName $v));if(!(Test-Path -LiteralPath $target)){$issues+="$rel : missing $v"};if($v -match '\.(png|webp|jpg|jpeg)$'){$imagePaths[$target]=$true}}
  if(([regex]::Matches($s,'<h1\b')).Count -ne 1){$issues+="$rel : H1 count"}
  if($s -notmatch '<meta name=''description'' content=''[^'']+''>'){$issues+="$rel : description missing"}
- if($s -notmatch '<link rel=''canonical'' href=''https://www.paradigmsecurityservices.com/'){$issues+="$rel : canonical domain"}
+ if($s -notmatch '<link rel=''canonical'' href=''https://paradigmsecurityservices.com/'){$issues+="$rel : canonical domain"}
  foreach($m in [regex]::Matches($s,'<script type=''application/ld\+json''>(.*?)</script>')){try{$null=$m.Groups[1].Value|ConvertFrom-Json}catch{$issues+="$rel : invalid structured data"}}
  if($s -match 'All Safety|Safety Overview'){$issues+="$rel : prohibited Safety label"}
  if($s -match '<h2>Questions About'){$issues+="$rel : FAQ on service page"}

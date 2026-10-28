@@ -1,4 +1,4 @@
-﻿$ErrorActionPreference='Stop'
+$ErrorActionPreference='Stop'
 $root=Split-Path $PSScriptRoot
 Set-Location $root
 . "$PSScriptRoot/intake-profile.ps1"
@@ -88,7 +88,7 @@ foreach($p in $pages){
  if($path -ne 'employment.html' -and $main -notmatch '(?is)<button[^>]*data-open-intake[^>]*>[^<]*</button>\s*(?:</(?:section|div|article)>\s*)*$'){$main+="<section class='page-action'>$cta</section>"}
  $profileJson=($profile|ConvertTo-Json -Depth 8 -Compress).Replace('<','\u003c')
  $chat="<script type='application/json' id='intake-profile'>$profileJson</script><dialog id='security-intake' aria-labelledby='intake-title'><header class='intake-heading'><h2 id='intake-title'>$(E $title)</h2><button type='button' data-intake-close aria-label='Close chat'>Close</button></header><p class='intake-intro'>Tell us about the coverage you need.</p><div class='intake-log' data-intake-log role='log' aria-live='polite'></div><form class='intake-form'><label class='visually-hidden' for='intake-answer'>Your reply</label><textarea id='intake-answer' name='answer' rows='2' maxlength='2000' required></textarea><div class='intake-form-actions'><button type='button' data-intake-back>Back</button><button class='button' type='submit'>Continue</button></div></form><div class='intake-review' data-intake-review></div><p class='intake-status' data-intake-status role='status'></p></dialog>"
- $canonical=if($p.canonical){$p.canonical}else{'https://www.paradigmsecurityservices.com/'+$path}
+ $canonical=if($p.canonical){$p.canonical}else{'https://paradigmsecurityservices.com/'+$path}
  $schema=@{'@context'='https://schema.org';'@type'='WebPage';name=$title;url=$canonical;inLanguage='en'}|ConvertTo-Json -Compress
  $html="<!doctype html><html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>$(E $title) | Paradigm Security</title><meta name='description' content='$(E $p.description)'><link rel='canonical' href='$canonical'><meta property='og:title' content='$(E $title)'><meta property='og:description' content='$(E $p.description)'><link rel='icon' href='${prefix}assets/favicon.svg'><link rel='stylesheet' href='${prefix}assets/reference/fonts.css'><link rel='stylesheet' href='${prefix}redesign/paradigm.css?v=20261021-1'><script type='application/ld+json'>$schema</script><script src='${prefix}paradigm-lead-config.js' defer></script><script src='${prefix}redesign/new-site.js' defer></script><script src='${prefix}redesign/question-chat.js' defer></script></head><body data-page='$path'><a class='skip-link' href='#main'>Skip to content</a>$header<main id='main'>$main</main>$footer$chat</body></html>"
  $target=Join-Path $root $path;[IO.File]::WriteAllText($target,$html,(New-Object Text.UTF8Encoding $false))

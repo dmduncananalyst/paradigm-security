@@ -1,3 +1,4 @@
+param([string]$ReportPath=(Join-Path $env:TEMP 'paradigm-security-october21-verification.json'))
 $ErrorActionPreference='Stop'
 $root=Split-Path $PSScriptRoot
 $articles=Get-Content "$PSScriptRoot/october21-articles.json" -Raw -Encoding UTF8|ConvertFrom-Json
@@ -25,9 +26,9 @@ for($i=0;$i -lt $articles.Count;$i++){
   unchangedPhoto=(((Get-Content "$PSScriptRoot/approved-blog-photo-hashes.json" -Raw|ConvertFrom-Json).PSObject.Properties[[IO.Path]::GetFileName($article.photo)].Value) -eq (Get-FileHash -LiteralPath (Join-Path $root $article.photo)).Hash)
   publication=($schema.datePublished -eq '2026-10-21' -and $html.Contains("datetime='2026-10-21'"))
   articleSchema=($schema.'@type' -eq 'BlogPosting' -and $schema.headline -ceq $article.title)
-  canonical=$html.Contains("rel='canonical' href='https://www.paradigmsecurityservices.com/$($article.path)'")
+  canonical=$html.Contains("rel='canonical' href='https://paradigmsecurityservices.com/$($article.path)'")
   serviceLink=$sections.Contains("href='$($article.service)'")
-  sitemap=([regex]::Matches($sitemap,[regex]::Escape('https://www.paradigmsecurityservices.com/'+$article.path)).Count -eq 1)
+  sitemap=([regex]::Matches($sitemap,[regex]::Escape('https://paradigmsecurityservices.com/'+$article.path)).Count -eq 1)
   sources=($true)
  }
  foreach($reference in $article.sections[-1].sources){if(!$sections.Contains("href='$([Net.WebUtility]::HtmlEncode($reference.url))'") -or !(Plain $sections).Contains($reference.label)){$tests.sources=$false}}
@@ -47,6 +48,6 @@ if(!$careers.Contains('assets/approved-generated/page-employment.jpg')){$errors+
 $homepageHtml=Get-Content "$root/index.html" -Raw
 if($homepageHtml -match '<video' -or !$homepageHtml.Contains('home-hero-badge-free-v3.jpg')){$errors+='Home badge-free fallback missing'}
 $report=@{articles=$results;adjacentDuplicates=$adjacent.Count;aboutPhotoPreserved=$true;careersPhotoPreserved=$true;errors=$errors}
-$report|ConvertTo-Json -Depth 8|Set-Content "$PSScriptRoot/october21-verification.json" -Encoding UTF8
+$report|ConvertTo-Json -Depth 8|Set-Content -LiteralPath $ReportPath -Encoding UTF8
 $report|ConvertTo-Json -Depth 8
 if($errors.Count){throw 'October 21 verification failed'}

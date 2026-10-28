@@ -1,8 +1,8 @@
-﻿$ErrorActionPreference='Stop'
+$ErrorActionPreference='Stop'
 $root=Split-Path $PSScriptRoot
 Set-Location $root
 $encoding=New-Object Text.UTF8Encoding $false
-$domain='https://www.paradigmsecurityservices.com'
+$domain='https://paradigmsecurityservices.com'
 $pages=Get-Content (Join-Path $PSScriptRoot 'content.json') -Raw -Encoding UTF8|ConvertFrom-Json
 $posts=@()
 $assignments=Get-Content (Join-Path $PSScriptRoot 'photo-assignments.json') -Raw -Encoding UTF8|ConvertFrom-Json

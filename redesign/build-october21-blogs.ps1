@@ -1,4 +1,4 @@
-﻿$ErrorActionPreference='Stop'
+$ErrorActionPreference='Stop'
 $root=Split-Path $PSScriptRoot
 function E($value){[Net.WebUtility]::HtmlEncode([string]$value)}
 $utf8=New-Object Text.UTF8Encoding $false
@@ -59,14 +59,14 @@ foreach($spec in $specs){
  $html=[regex]::Replace($template,'(?is)<main id=''main''>.*?</main>',[Text.RegularExpressions.MatchEvaluator]{param($m)"<main id='main'>$main</main>"})
  $html=[regex]::Replace($html,'(?is)<title>.*?</title>',"<title>$(E $title)</title>")
  $html=[regex]::Replace($html,"<meta name='description' content='[^']*'>","<meta name='description' content='$(E $description)'>")
- $canonical='https://www.paradigmsecurityservices.com/'+$spec.slug
+ $canonical='https://paradigmsecurityservices.com/'+$spec.slug
  $html=[regex]::Replace($html,"<link rel='canonical' href='[^']*'>","<link rel='canonical' href='$canonical'>")
  $html=[regex]::Replace($html,"<meta property='og:title' content='[^']*'>","<meta property='og:title' content='$(E $title)'>")
  $html=[regex]::Replace($html,"<meta property='og:description' content='[^']*'>","<meta property='og:description' content='$(E $description)'>")
- $schema=@{'@context'='https://schema.org';'@type'='BlogPosting';headline=$title;description=$description;datePublished='2026-10-21';dateModified='2026-10-21';mainEntityOfPage=$canonical;url=$canonical;image=('https://www.paradigmsecurityservices.com/'+$image.Replace(' ','%20'));author=@{'@type'='Organization';name='Paradigm Security Services'};publisher=@{'@type'='Organization';name='Paradigm Security Services'};inLanguage='en-US'}|ConvertTo-Json -Depth 8 -Compress
+ $schema=@{'@context'='https://schema.org';'@type'='BlogPosting';headline=$title;description=$description;datePublished='2026-10-21';dateModified='2026-10-21';mainEntityOfPage=$canonical;url=$canonical;image=('https://paradigmsecurityservices.com/'+$image.Replace(' ','%20'));author=@{'@type'='Organization';name='Paradigm Security Services'};publisher=@{'@type'='Organization';name='Paradigm Security Services'};inLanguage='en-US'}|ConvertTo-Json -Depth 8 -Compress
  $html=[regex]::Replace($html,"(?is)<script type='application/ld\+json'>.*?</script>","<script type='application/ld+json'>$schema</script>")
  $html=$html.Replace("data-page='blog.html'","data-page='$($spec.slug)'")
- $html=$html.Replace('</head>',"<meta property='og:type' content='article'><meta property='og:url' content='$canonical'><meta property='og:image' content='https://www.paradigmsecurityservices.com/$(E $image.Replace(' ','%20'))'><link rel='stylesheet' href='redesign/blog.css?v=20261021-1'></head>")
+ $html=$html.Replace('</head>',"<meta property='og:type' content='article'><meta property='og:url' content='$canonical'><meta property='og:image' content='https://paradigmsecurityservices.com/$(E $image.Replace(' ','%20'))'><link rel='stylesheet' href='redesign/blog.css?v=20261021-1'></head>")
  # Reuse the corresponding service's tested guided chat, without changing its integration.
  $serviceHtml=Get-Content (Join-Path $root $spec.service) -Raw -Encoding UTF8
  $chat=[regex]::Match($serviceHtml,"(?is)<script type='application/json' id='intake-profile'>.*?</dialog>").Value
@@ -81,6 +81,6 @@ if($archiveHtml -notmatch 'redesign/blog.css'){$archiveHtml=$archiveHtml.Replace
 [IO.File]::WriteAllText("$root/blog.html",$archiveHtml,$utf8)
 $articles|ConvertTo-Json -Depth 12|Set-Content "$PSScriptRoot/october21-articles.json" -Encoding UTF8
 [xml]$sitemap=Get-Content "$root/sitemap.xml" -Raw
-foreach($article in $articles){$url='https://www.paradigmsecurityservices.com/'+$article.path;if($url -notin @($sitemap.urlset.url.loc)){$node=$sitemap.CreateElement('url',$sitemap.DocumentElement.NamespaceURI);$loc=$sitemap.CreateElement('loc',$sitemap.DocumentElement.NamespaceURI);$loc.InnerText=$url;[void]$node.AppendChild($loc);$date=$sitemap.CreateElement('lastmod',$sitemap.DocumentElement.NamespaceURI);$date.InnerText='2026-10-21';[void]$node.AppendChild($date);[void]$sitemap.DocumentElement.AppendChild($node)}}
+foreach($article in $articles){$url='https://paradigmsecurityservices.com/'+$article.path;if($url -notin @($sitemap.urlset.url.loc)){$node=$sitemap.CreateElement('url',$sitemap.DocumentElement.NamespaceURI);$loc=$sitemap.CreateElement('loc',$sitemap.DocumentElement.NamespaceURI);$loc.InnerText=$url;[void]$node.AppendChild($loc);$date=$sitemap.CreateElement('lastmod',$sitemap.DocumentElement.NamespaceURI);$date.InnerText='2026-10-21';[void]$node.AppendChild($date);[void]$sitemap.DocumentElement.AppendChild($node)}}
 $sitemap.Save("$root/sitemap.xml")
 Write-Output 'Implemented three complete October 21 articles, approved images, archive previews, and sitemap entries.'

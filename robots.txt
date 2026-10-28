@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /Wix-Handoff/
-Sitemap: https://www.paradigmsecurityservices.com/sitemap.xml
+Sitemap: https://paradigmsecurityservices.com/sitemap.xml
