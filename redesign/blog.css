@@ -16,3 +16,9 @@
 
 /* Long citation URLs must stay within the existing article column. */
 .journal-copy a{overflow-wrap:anywhere}
+
+/* Preserve the established archive image frame for the three new entries. */
+.journal-preview[href="construction-site-security-costs-los-angeles.html"] > img,.journal-preview[href="hire-apartment-complex-security-company-los-angeles.html"] > img,.journal-preview[href="cost-armed-unarmed-security-guards-los-angeles.html"] > img{aspect-ratio:1672 / 941!important;object-fit:cover!important;object-position:center!important}
+
+/* A single-column archive keeps the final card at the same mobile width. */
+@media(max-width:599px){.journal-preview:last-child:nth-child(odd){width:100%}}
