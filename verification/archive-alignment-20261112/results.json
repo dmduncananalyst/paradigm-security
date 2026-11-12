@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-12",
+  "scope": "Paradigm Security blog archive only; article files, content, metadata, photographs and other websites unchanged.",
+  "cards": 12,
+  "viewport_widths": [
+    1614,
+    1440,
+    1200,
+    1199,
+    1024,
+    820,
+    768,
+    600,
+    599,
+    390,
+    320
+  ],
+  "browser_errors": [],
+  "checks": "All cards and image frames have equal dimensions at each viewport; cover cropping, aligned dates/categories/title starts/read links, full titles without clipping or overlap; no document overflow or JavaScript errors.",
+  "source_policy": "12 existing checks passed",
+  "public_inventory": "102 approved routes passed",
+  "existing_site_audit": {
+    "pages": 104,
+    "timestamp": "2026-11-12T14:49:53.3182793-08:00",
+    "issues": [],
+    "uniqueImages": 192,
+    "safetyTopicCounts": {
+      "articles\\topics\\security-authority-rights.html": 6,
+      "articles\\topics\\homes-estates.html": 4,
+      "articles\\topics\\construction-warehouse.html": 5,
+      "articles\\topics\\schools-campus.html": 4,
+      "articles\\topics\\personal-protection.html": 5,
+      "articles\\topics\\events-production.html": 7,
+      "articles\\topics\\apartments-residential.html": 4,
+      "articles\\topics\\retail-shopping-center.html": 6,
+      "articles\\topics\\banking-transport-cannabis.html": 7,
+      "articles\\topics\\hospitals-medical.html": 4,
+      "articles\\topics\\workplace-office.html": 4,
+      "articles\\topics\\police-private-security.html": 10
+    }
+  },
+  "audit_parser_regressions": {
+    "cases": [
+      {
+        "case": "double quotes",
+        "passed": true,
+        "issues": []
+      },
+      {
+        "case": "single quotes",
+        "passed": true,
+        "issues": []
+      },
+      {
+        "case": "reordered attributes",
+        "passed": true,
+        "issues": []
+      },
+      {
+        "case": "missing description",
+        "passed": true,
+        "issues": [
+          "index.html : description missing"
+        ]
+      },
+      {
+        "case": "empty description",
+        "passed": true,
+        "issues": [
+          "index.html : description missing"
+        ]
+      },
+      {
+        "case": "duplicate description",
+        "passed": true,
+        "issues": [
+          "index.html : description missing"
+        ]
+      },
+      {
+        "case": "wrong canonical",
+        "passed": true,
+        "issues": [
+          "index.html : canonical domain"
+        ]
+      },
+      {
+        "case": "similar invalid domain",
+        "passed": true,
+        "issues": [
+          "index.html : canonical domain"
+        ]
+      },
+      {
+        "case": "invalid double-quoted JSON",
+        "passed": true,
+        "issues": [
+          "index.html : invalid structured data"
+        ]
+      },
+      {
+        "case": "invalid single-quoted JSON",
+        "passed": true,
+        "issues": [
+          "index.html : invalid structured data"
+        ]
+      },
+      {
+        "case": "forbidden label",
+        "passed": true,
+        "issues": [
+          "index.html : prohibited Safety label"
+        ]
+      },
+      {
+        "case": "forbidden alternative",
+        "passed": true,
+        "issues": [
+          "index.html : prohibited Safety label"
+        ]
+      }
+    ],
+    "passed": true,
+    "security_controls": "Metadata, exact canonical domain, valid JSON and forbidden labels remain enforced; both HTML quoting styles are inspected."
+  },
+  "audit_compatibility": "Both legal HTML quoting styles and attribute orders are inspected; exact canonical domain and duplicate metadata checks strengthened. Full-word forbidden label check avoids matching overall safety. UTF-8 BOM allows the existing Windows PowerShell launcher to read the script correctly. No security hook, publishing gate or protection was removed.",
+  "security_hooks": "Existing unchanged hook self-test passed all 26 blocked and 27 allowed cases. The actual staged-file hook is required before commit.",
+  "dependencies": "No package manifests, lockfiles, external dependencies or integration scripts changed.",
+  "languages": "Existing single-language Security site preserved; no translation provider requests.",
+  "deployment": "Separate main-branch GitHub Pages publication, to be confirmed for the exact release commit."
+}
