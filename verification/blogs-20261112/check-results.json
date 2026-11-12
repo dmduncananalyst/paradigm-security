@@ -1,0 +1,9 @@
+{
+  "security_selftest": "PASS, 26 blocked and 27 allowed synthetic path cases, unchanged hook",
+  "source_policy": "PASS, 12 checks",
+  "public_integrity": "PASS, 102 approved routes",
+  "build": "Static GitHub Pages source, existing main branch publication configuration preserved",
+  "source_corrections": "Only the explicitly authorized unsupported medical and school statistical passages were changed. Original PDF text and the exact correction ledger are preserved separately.",
+  "languages": "Existing site behavior preserved; new articles requested in English",
+  "browser": true
+}

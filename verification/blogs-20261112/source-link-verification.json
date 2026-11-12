@@ -1,0 +1,45 @@
+[
+  {
+    "article": 7,
+    "title": "PubMed, hospital parking security report published in 1995",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10172449/",
+    "status": 203,
+    "final_url": "https://pubmed.ncbi.nlm.nih.gov/10172449/",
+    "additional_verification": "PubMed abstract indexed and read through web search; raw client receives an automated browser checkpoint."
+  },
+  {
+    "article": 7,
+    "title": "IAHSS Foundation, 2024 Healthcare Crime Survey covering 2023 incidents",
+    "url": "https://iahssf.org/crime-surveys/2024-healthcare-crime-survey/",
+    "status": 200,
+    "final_url": "https://iahssf.org/crime-surveys/2024-healthcare-crime-survey/"
+  },
+  {
+    "article": 8,
+    "title": "National Center for Education Statistics, public school crime and safety findings for 2021 to 2022",
+    "url": "https://nces.ed.gov/pubs2024/2024043.pdf",
+    "status": 200,
+    "final_url": "https://nces.ed.gov/pubs2024/2024043.pdf"
+  },
+  {
+    "article": 8,
+    "title": "California Department of Education, Civic Center Act and community use",
+    "url": "https://www.cde.ca.gov/ls/fa/ccaregulations.asp",
+    "status": 200,
+    "final_url": "https://www.cde.ca.gov/ls/fa/ccaregulations.asp"
+  },
+  {
+    "article": 9,
+    "title": "CISA, Public Venue Credentialing Guide",
+    "url": "https://www.cisa.gov/sites/default/files/publications/Public%20Venue%20Credentialing%20Guide_508.pdf",
+    "status": 200,
+    "final_url": "https://www.cisa.gov/sites/default/files/publications/Public%20Venue%20Credentialing%20Guide_508.pdf"
+  },
+  {
+    "article": 9,
+    "title": "ASIS Foundation, access control and deliveries in commercial buildings",
+    "url": "https://www.asisonline.org/globalassets/foundation/documents/crisp-reports/crisp-from-ground-up-security-tall-buildings.pdf",
+    "status": 200,
+    "final_url": "https://www.asisonline.org/globalassets/foundation/documents/crisp-reports/crisp-from-ground-up-security-tall-buildings.pdf"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "repository": "paradigm-security",
+  "articles": [
+    {
+      "url": "https://paradigmsecurityservices.com/medical-staff-parking-lot-security-shift-change.html",
+      "approved_text_exact": true,
+      "pdf_text_exact": false,
+      "authorized_numerical_corrections": true,
+      "body_characters": 8217,
+      "meta_characters": 152,
+      "image_bytes": 265037,
+      "missing_references": []
+    },
+    {
+      "url": "https://paradigmsecurityservices.com/school-campus-security-after-dismissal.html",
+      "approved_text_exact": true,
+      "pdf_text_exact": false,
+      "authorized_numerical_corrections": true,
+      "body_characters": 8432,
+      "meta_characters": 153,
+      "image_bytes": 324947,
+      "missing_references": []
+    },
+    {
+      "url": "https://paradigmsecurityservices.com/shopping-center-service-corridor-security.html",
+      "approved_text_exact": true,
+      "pdf_text_exact": true,
+      "authorized_numerical_corrections": false,
+      "body_characters": 8432,
+      "meta_characters": 157,
+      "image_bytes": 299138,
+      "missing_references": []
+    }
+  ],
+  "errors": [],
+  "publication": "not yet performed"
+}

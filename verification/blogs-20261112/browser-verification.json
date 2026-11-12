@@ -1,0 +1,158 @@
+{
+  "repository": "paradigm-security",
+  "article_viewport_cases": [
+    {
+      "page": "medical-staff-parking-lot-security-shift-change.html",
+      "viewport": "desktop",
+      "width": 1440,
+      "status": 200,
+      "h1_matches": true,
+      "overflow": false,
+      "photo_loaded": true,
+      "photo_dimensions": [
+        1536,
+        1024
+      ],
+      "header": true,
+      "footer": true,
+      "javascript_errors": []
+    },
+    {
+      "page": "school-campus-security-after-dismissal.html",
+      "viewport": "desktop",
+      "width": 1440,
+      "status": 200,
+      "h1_matches": true,
+      "overflow": false,
+      "photo_loaded": true,
+      "photo_dimensions": [
+        1536,
+        1024
+      ],
+      "header": true,
+      "footer": true,
+      "javascript_errors": []
+    },
+    {
+      "page": "shopping-center-service-corridor-security.html",
+      "viewport": "desktop",
+      "width": 1440,
+      "status": 200,
+      "h1_matches": true,
+      "overflow": false,
+      "photo_loaded": true,
+      "photo_dimensions": [
+        1536,
+        1024
+      ],
+      "header": true,
+      "footer": true,
+      "javascript_errors": []
+    },
+    {
+      "page": "medical-staff-parking-lot-security-shift-change.html",
+      "viewport": "tablet",
+      "width": 820,
+      "status": 200,
+      "h1_matches": true,
+      "overflow": false,
+      "photo_loaded": true,
+      "photo_dimensions": [
+        1536,
+        1024
+      ],
+      "header": true,
+      "footer": true,
+      "javascript_errors": []
+    },
+    {
+      "page": "school-campus-security-after-dismissal.html",
+      "viewport": "tablet",
+      "width": 820,
+      "status": 200,
+      "h1_matches": true,
+      "overflow": false,
+      "photo_loaded": true,
+      "photo_dimensions": [
+        1536,
+        1024
+      ],
+      "header": true,
+      "footer": true,
+      "javascript_errors": []
+    },
+    {
+      "page": "shopping-center-service-corridor-security.html",
+      "viewport": "tablet",
+      "width": 820,
+      "status": 200,
+      "h1_matches": true,
+      "overflow": false,
+      "photo_loaded": true,
+      "photo_dimensions": [
+        1536,
+        1024
+      ],
+      "header": true,
+      "footer": true,
+      "javascript_errors": []
+    },
+    {
+      "page": "medical-staff-parking-lot-security-shift-change.html",
+      "viewport": "mobile",
+      "width": 390,
+      "status": 200,
+      "h1_matches": true,
+      "overflow": false,
+      "photo_loaded": true,
+      "photo_dimensions": [
+        1536,
+        1024
+      ],
+      "header": true,
+      "footer": true,
+      "javascript_errors": []
+    },
+    {
+      "page": "school-campus-security-after-dismissal.html",
+      "viewport": "mobile",
+      "width": 390,
+      "status": 200,
+      "h1_matches": true,
+      "overflow": false,
+      "photo_loaded": true,
+      "photo_dimensions": [
+        1536,
+        1024
+      ],
+      "header": true,
+      "footer": true,
+      "javascript_errors": []
+    },
+    {
+      "page": "shopping-center-service-corridor-security.html",
+      "viewport": "mobile",
+      "width": 390,
+      "status": 200,
+      "h1_matches": true,
+      "overflow": false,
+      "photo_loaded": true,
+      "photo_dimensions": [
+        1536,
+        1024
+      ],
+      "header": true,
+      "footer": true,
+      "javascript_errors": []
+    }
+  ],
+  "index_viewports": [
+    "desktop",
+    "tablet",
+    "mobile"
+  ],
+  "errors": [],
+  "screenshots": "C:\\Users\\Owner\\AppData\\Local\\Temp\\paradigm-security-blogs-20261112-k62o905p",
+  "external_requests": "blocked using existing offline convention",
+  "forms_submitted": 0
+}

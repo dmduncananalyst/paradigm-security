@@ -1,0 +1,20 @@
+[
+  {
+    "article": 7,
+    "original": "Coverage from the International Association for Healthcare Security and Safety has cited research finding that parking lots are among the top three locations for crimes at healthcare facilities.",
+    "replacement": "A 1995 hospital parking security report indexed by PubMed describes substantial shares of reported hospital crime occurring in parking lots and structures, using data from the 1993 IAHSS hospital crime survey. Those historical findings are not current incident rates.",
+    "authorization": "User follow-up authorizing only unsupported numerical claim corrections in Security articles 7 and 8"
+  },
+  {
+    "article": 7,
+    "original": "a known record of parking areas ranking among the top locations for crime at healthcare facilities.",
+    "replacement": "historical evidence of crime occurring in hospital parking facilities.",
+    "authorization": "User follow-up authorizing only unsupported numerical claim corrections in Security articles 7 and 8"
+  },
+  {
+    "article": 8,
+    "original": "The pattern shows up clearly in the figures schools already have. National Center for Education Statistics data, cited in coverage of after hours school security, says over 30 percent of school vandalism occurs during evenings, weekends, or breaks. The same coverage reports that theft and property damage are nearly twice as likely after hours, and that in some districts 70 percent of school burglaries happen when buildings are unoccupied. Those are not random numbers. They describe a simple truth about opportunity. When the people leave, the risk arrives.",
+    "replacement": "The National Center for Education Statistics report on crime and safety in U.S. public schools for the 2021 to 2022 school year documents recorded theft and vandalism as part of the school safety picture. The report does not establish the share of incidents occurring after hours or when buildings are unoccupied. Decisions about evening coverage therefore need to reflect a campus event schedule, access conditions and local incident records.",
+    "authorization": "User follow-up authorizing only unsupported numerical claim corrections in Security articles 7 and 8"
+  }
+]
